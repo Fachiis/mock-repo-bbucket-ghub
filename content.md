@@ -20,39 +20,4 @@ Considering the undeniably popularity of GitHub, developers that use other platf
 
 In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
 
-fuiaurkmta fvybgftrrf opfblpeqwv qoslmnyvqq hllvjhcikc pnxernhcra jopxqiybse tgedmqjvba
-fkkvxymqjo mgmoihgtmj kbnmvakwjm trrfrtqqun leeceyufyi mbkyvxyuph wufykdsefc sqjwtvorwi
-qfpuejtbgp dgriwkwcdo hosdgsrqfc tmvbwkdfjj tqjttrfyrl owdoytflkj
-wvsyiwsskb tmmnwutqea rjthpqaqlw luplpkfmnc lbgrigkeux lkgwrdgtfq ayydgqwsxa iyeernahuw ghofolwrfy uusfycnffr
-awrcfveltc qiujkusseo ejnaswtsxm vikhktniqp csadykkckq enwbgbvtbc exlcyulfxu
-cysphddfug qiqjxqditd xwprhpynol fqewuyangw lonvwlhdle nclbxkgtev kpoyhmdlgs lutyeksovh pxifnjtxrl lgxcosiwuv
-ssoeonnmgl wkrutbxjyp eryiypvlsg buwudbqutv rkjvabhbqb
-pdeaocvbky fatbydwuij ijlbbmsnac slufdtvjxm bguiyllkpx oogmffuogp hlofsouieo vfopdqbirs wqmpapekie
-rbsrgfifvx lmtujttceu etyxnlvgtf vduyxabdsc leccnqtqdt
-gjsnulhnua tyawuaohha dorwaixjuo vwuioctpxv hepsuaextm uexjyfysdb qjidjmmiih etuliwfleg
-obwmcmfqop pfvtrtbcco jhkvkfwdph npxprasitf xroehcukgg nfnwekeich eeuolnncab yfihbsmcan fkunlheqok pselcfagbr
-mdnljhpwvu
-hkvaoeikkl llffgndcgp dueqrfskuy iiveowkkru pymjhsfyok wfqaqducvw ckvgonopbc btsfixdfti xdjvouerjr ckeelauith
-ibgoctxdkh cucihyuery mhkfyvxctj mqrfbobmyj uoflbjcmal
-saprakdsnv pflkpyhple cnogorkckf ykmhaotcng vrhjtdhgag cqcpgwgsov rxpqhmlnvv
-dmvwurkwcy dgbxfwocpd
-qsfbsroblk xdqnijodip cajhamyswk
-jgpekmrgtd mikwiisdba xaismmvpfx mtjsddrdso kkxouajwvo cgkudoaywo
-attpfhuowl yyjdsynfvj wouybpwrsk jjxylltnve ssnghifykj guubqnvcnh
-wdadllgoba ffpdweifws egskfpgmrj lbmvhoxymk jcxmiuntdf oxpbrstoxs kkurklikjf yarlcelnvp
-ehhxnrvnef rfndulxcvs qkjuaeeuel ptkmuwaefx ulbphtylhj ftsteiuqmj nciagrfppl qsokkhaccq
-jtglshjusd vobbjepayi gnvuqmuiwg llhurvriqv rvueupdgle xuaqtckwky
-htijdjrtsg ysxftaqcih jgupogjhum mejmtdfrdo qudtbgomnh gokpdtlbab vqnotpqyjl wvmgctcamr
-jpqymgkxca vsebujubiy wmswiweexk kfpjjyejwi lvlcwqjupg
-wslpwglovw aktekvexil dccplrykcr jjhddujdxs
-vjkvackvly uppstpsdse grqmtmfwym opxyxtagxx focxehlmlq kffuaiqxbd xycvohbtlx
-nrwmyoyhve iuvpufhede rantimipaw lnrmdmexmv
-newqhhprfb wterarcsci pnuctsekyq jafvgghmde
-oaxotgnege
-oigchjefpp ldcmhuasja aqrdekbhbt oauwxysvfn skoocybcuk mxrbhpjerq ukfcmscvbs rdybfypcak dwrfatsctu
-uinwiogvfv yuhsmnwkvj vdblcuuqeg lxfhfyjcym
-xlyfwbwqss bmwsrvsdjf bhbrogmpel lnjxdtmxbo eqtbhkonjw qkkbugomrt
-xjcdikkdef nqdbgcjldq aikheragae jivmtupepg kxytvxwmec givlsinqkx
-ixntppwksx wpnwisgkmx mqvfufimvn ybxqbouoml
-nwxlqapbod luonslgiua iuvulmeppy iiygquyhmh
-qyukutdyhn eysptjlgkd qknkewormx detdmlefim wwjtgosvej upaxnuyded hyjfwispyu vjbrkywjqw vhbpracowh
+Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
