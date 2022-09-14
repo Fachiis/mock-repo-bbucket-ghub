@@ -12,10 +12,5 @@ mock_repo = git.Repo("/home/fachiis/Desktop/codes/BitBucket2GitHub")
 importer = Importer([repo, repo2], mock_repo)
 # I use both my personal email and work email here,
 # Since the private repo uses work email, and Github uses my personal email
-print("fnuwl")
-print("ilyab")
-print("qbfkv")
-print("isyfc")
-print("ymduo")
-print("cafwq")
-print("xmdxy")
+importer.set_author(['zashafachii@gmail.com', 'felix@icubefarm.com'])
+importer.import_repository()
