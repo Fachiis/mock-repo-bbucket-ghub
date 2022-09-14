@@ -1,2 +1,2 @@
 console.log("lmlnx")
-console.log("jnsxu")
+console.log("inbox")
