@@ -1,2 +1,2 @@
 console.log("aaabd")
-console.log("ruqcp")
+console.log("yomty")
