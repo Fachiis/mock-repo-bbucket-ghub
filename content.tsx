@@ -1,1 +1,1 @@
-console.log("thkot")
+console.log("ncrkm")
