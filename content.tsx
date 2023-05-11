@@ -1,3 +1,3 @@
 console.log("jymbs")
 console.log("mohym")
-console.log("oskay")
+console.log("imrsa")
