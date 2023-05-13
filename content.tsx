@@ -1,1 +1,1 @@
-console.log("cwkya")
+console.log("ogrih")
