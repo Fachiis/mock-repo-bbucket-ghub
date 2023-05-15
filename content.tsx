@@ -1,2 +1,2 @@
 console.log("tqnwl")
-console.log("nlnkt")
+console.log("muuck")
