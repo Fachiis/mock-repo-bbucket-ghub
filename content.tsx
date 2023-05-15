@@ -1,1 +1,1 @@
-console.log("cutac")
+console.log("qsmag")
