@@ -1,1 +1,1 @@
-console.log("wyeya")
+console.log("opjka")
