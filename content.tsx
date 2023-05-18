@@ -1,1 +1,1 @@
-console.log("oolic")
+console.log("mdatg")
