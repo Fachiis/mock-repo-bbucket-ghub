@@ -1,2 +1,2 @@
 console.log("tqnwl")
-console.log("druaj")
+console.log("lspal")
