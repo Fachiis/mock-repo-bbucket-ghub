@@ -1,1 +1,1 @@
-console.log("pulpc")
+console.log("syrym")
