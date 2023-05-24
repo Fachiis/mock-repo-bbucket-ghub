@@ -1,1 +1,1 @@
-console.log("kraht")
+console.log("kijuo")
