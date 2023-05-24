@@ -1,1 +1,1 @@
-console.log("nvekg")
+console.log("kraht")
