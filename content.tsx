@@ -1,1 +1,1 @@
-console.log("sygcd")
+console.log("wykso")
