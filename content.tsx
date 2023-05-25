@@ -1,1 +1,1 @@
-console.log("kinda")
+console.log("lrrlt")
