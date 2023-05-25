@@ -1,1 +1,1 @@
-console.log("adoar")
+console.log("pxajt")
