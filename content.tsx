@@ -1,1 +1,1 @@
-console.log("ptrng")
+console.log("betes")
