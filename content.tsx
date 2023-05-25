@@ -1,1 +1,1 @@
-console.log("ppdyc")
+console.log("ndtek")
