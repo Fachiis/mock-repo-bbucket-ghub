@@ -1,1 +1,1 @@
-console.log("kupnu")
+console.log("qxuwg")
