@@ -1,3 +1,3 @@
 console.log("ruyev")
 console.log("smknp")
-console.log("quyes")
+console.log("lutuj")
