@@ -1,4 +1,3 @@
 console.log("ulxwl")
 console.log("grrph")
 console.log("hukqd")
-console.log("uones")
