@@ -1,4 +1,4 @@
 console.log("ndkak")
 console.log("dymly")
 console.log("ehioh")
-console.log("jjdnm")
+console.log("skinr")
