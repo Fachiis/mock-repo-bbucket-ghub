@@ -1,3 +1,3 @@
 console.log("imkyx")
 console.log("ntakl")
-console.log("awnya")
+console.log("kimgf")
