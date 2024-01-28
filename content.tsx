@@ -1,2 +1,2 @@
 console.log("cjlgb")
-console.log("wtjnx")
+console.log("fajke")
