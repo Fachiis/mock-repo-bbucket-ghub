@@ -1,2 +1,2 @@
 console.log("saqnd")
-console.log("wlcej")
+console.log("sqnod")
