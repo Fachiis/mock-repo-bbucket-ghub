@@ -1,2 +1,2 @@
 console.log("imkyx")
-console.log("mgnoe")
+console.log("dtono")
