@@ -1,2 +1,2 @@
 console.log("cjlgb")
-console.log("ommlh")
+console.log("pteks")
