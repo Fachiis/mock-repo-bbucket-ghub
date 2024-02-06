@@ -1,2 +1,2 @@
 console.log("ulxwl")
-console.log("amffs")
+console.log("gpbye")
