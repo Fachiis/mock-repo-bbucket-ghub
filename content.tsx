@@ -1,2 +1,2 @@
 console.log("imkyx")
-console.log("jyuju")
+console.log("bfwgy")
