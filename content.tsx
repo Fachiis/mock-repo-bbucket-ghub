@@ -1,2 +1,2 @@
 console.log("ruyev")
-console.log("wgwyd")
+console.log("npake")
