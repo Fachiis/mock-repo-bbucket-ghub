@@ -1,2 +1,2 @@
 console.log("vygma")
-console.log("qajws")
+console.log("arhqf")
