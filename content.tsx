@@ -1,2 +1,2 @@
 console.log("vygma")
-console.log("fajjn")
+console.log("ghhoc")
