@@ -1,2 +1,2 @@
 console.log("vygma")
-console.log("mtkjk")
+console.log("paleg")
