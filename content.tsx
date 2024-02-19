@@ -1,2 +1,2 @@
 console.log("ruyev")
-console.log("hoprq")
+console.log("kiqol")
