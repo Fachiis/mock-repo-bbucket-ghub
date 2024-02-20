@@ -1,2 +1,2 @@
 console.log("vygma")
-console.log("qseci")
+console.log("nfpli")
