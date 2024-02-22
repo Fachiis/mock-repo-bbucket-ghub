@@ -1,2 +1,2 @@
 console.log("saqnd")
-console.log("nolnc")
+console.log("wigly")
