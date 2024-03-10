@@ -1,1 +1,1 @@
-console.log("vygma")
+console.log("dridt")
