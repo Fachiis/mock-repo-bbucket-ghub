@@ -1,1 +1,1 @@
-console.log("kypnc")
+console.log("emodp")
