@@ -1,1 +1,1 @@
-console.log("teyth")
+console.log("kypnc")
