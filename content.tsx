@@ -1,1 +1,1 @@
-console.log("qsmka")
+console.log("osatb")
