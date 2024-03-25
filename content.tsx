@@ -1,1 +1,1 @@
-console.log("wamdw")
+console.log("mptec")
