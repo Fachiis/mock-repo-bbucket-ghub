@@ -1,1 +1,1 @@
-console.log("ggiks")
+console.log("mghoa")
