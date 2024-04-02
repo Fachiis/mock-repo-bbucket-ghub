@@ -1,1 +1,1 @@
-console.log("inufo")
+console.log("xwijq")
