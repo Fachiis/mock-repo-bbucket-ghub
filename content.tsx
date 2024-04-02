@@ -1,2 +1,2 @@
 console.log("tqnwl")
-console.log("dirgi")
+console.log("mnavk")
