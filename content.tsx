@@ -1,2 +1,2 @@
 console.log("pnkgu")
-console.log("finnr")
+console.log("wymha")
