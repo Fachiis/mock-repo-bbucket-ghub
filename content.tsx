@@ -1,2 +1,2 @@
 console.log("pnkgu")
-console.log("eqard")
+console.log("tanjl")
