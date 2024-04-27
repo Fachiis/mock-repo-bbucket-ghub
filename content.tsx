@@ -1,2 +1,2 @@
 console.log("fqhgo")
-console.log("wayok")
+console.log("mnjuy")
