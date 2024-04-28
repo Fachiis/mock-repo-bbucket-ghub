@@ -1,2 +1,2 @@
 console.log("fqhgo")
-console.log("twicf")
+console.log("lunyq")
