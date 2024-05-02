@@ -1,2 +1,2 @@
 console.log("pnkgu")
-console.log("wpgtc")
+console.log("kpyqs")
