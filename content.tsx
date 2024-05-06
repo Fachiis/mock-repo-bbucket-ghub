@@ -1,2 +1,2 @@
 console.log("ynuem")
-console.log("xkbxy")
+console.log("kanju")
