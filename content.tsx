@@ -1,3 +1,3 @@
 console.log("pnkgu")
 console.log("wqtau")
-console.log("othaj")
+console.log("mjror")
