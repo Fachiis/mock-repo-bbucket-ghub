@@ -104,3 +104,4 @@ SELECT * from hyfbx;
 SELECT * from muobb;
 SELECT * from vthfy;
 SELECT * from vfxpt;
+SELECT * from isxiq;
