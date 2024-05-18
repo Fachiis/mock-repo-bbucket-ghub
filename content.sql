@@ -52,3 +52,4 @@ SELECT * from pfktc;
 SELECT * from oohty;
 SELECT * from xqbgn;
 SELECT * from qlqgu;
+SELECT * from gmvvt;
