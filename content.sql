@@ -865,3 +865,4 @@ SELECT * from upydl;
 SELECT * from njgck;
 SELECT * from jrhgj;
 SELECT * from rjril;
+SELECT * from ejatp;
