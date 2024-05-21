@@ -53,3 +53,4 @@ SELECT * from oohty;
 SELECT * from xqbgn;
 SELECT * from qlqgu;
 SELECT * from gmvvt;
+SELECT * from xamnb;
