@@ -23,3 +23,4 @@ SELECT * from vvdee;
 SELECT * from clmho;
 SELECT * from gatru;
 SELECT * from qplof;
+SELECT * from ffunu;
