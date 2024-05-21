@@ -410,3 +410,4 @@ SELECT * from cahvc;
 SELECT * from soktm;
 SELECT * from ptika;
 SELECT * from kbwns;
+SELECT * from maxwe;
