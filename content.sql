@@ -167,3 +167,4 @@ SELECT * from ohatc;
 SELECT * from eofmg;
 SELECT * from pcbrb;
 SELECT * from kfepr;
+SELECT * from xuwja;
