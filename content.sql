@@ -105,3 +105,4 @@ SELECT * from muobb;
 SELECT * from vthfy;
 SELECT * from vfxpt;
 SELECT * from isxiq;
+SELECT * from rwwjj;
