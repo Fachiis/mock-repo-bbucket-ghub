@@ -235,3 +235,4 @@ SELECT * from rbwpy;
 SELECT * from mlxwj;
 SELECT * from cpxnq;
 SELECT * from gadkk;
+SELECT * from cxuvi;
