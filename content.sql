@@ -628,3 +628,4 @@ SELECT * from hpkyg;
 SELECT * from frrnn;
 SELECT * from qwcwk;
 SELECT * from addhx;
+SELECT * from egnce;
