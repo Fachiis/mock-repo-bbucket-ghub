@@ -106,3 +106,4 @@ SELECT * from vthfy;
 SELECT * from vfxpt;
 SELECT * from isxiq;
 SELECT * from rwwjj;
+SELECT * from loiyg;
