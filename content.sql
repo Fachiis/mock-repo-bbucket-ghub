@@ -320,3 +320,4 @@ SELECT * from ajiek;
 SELECT * from jkcgo;
 SELECT * from tckig;
 SELECT * from hcglu;
+SELECT * from ccmsi;
