@@ -12,3 +12,4 @@ SELECT * from llicm;
 SELECT * from ypwgl;
 SELECT * from yxgwq;
 SELECT * from nufmx;
+SELECT * from honni;
