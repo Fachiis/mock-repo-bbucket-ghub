@@ -18,3 +18,4 @@ SELECT * from qwcsa;
 SELECT * from wgyrp;
 SELECT * from mxfyg;
 SELECT * from evntx;
+SELECT * from ktrjt;
