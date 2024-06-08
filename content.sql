@@ -236,3 +236,4 @@ SELECT * from mlxwj;
 SELECT * from cpxnq;
 SELECT * from gadkk;
 SELECT * from cxuvi;
+SELECT * from hhrkm;
