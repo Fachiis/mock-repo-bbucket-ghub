@@ -6,3 +6,4 @@ SELECT * from mpguq;
 SELECT * from ksvtg;
 SELECT * from jwtmo;
 SELECT * from fgkva;
+SELECT * from cuwwk;
