@@ -513,3 +513,4 @@ SELECT * from xxfba;
 SELECT * from tpkhe;
 SELECT * from iyxgn;
 SELECT * from bxpwo;
+SELECT * from mxnkb;
