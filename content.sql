@@ -25,4 +25,4 @@ SELECT * from gatru;
 SELECT * from qplof;
 SELECT * from ffunu;
 SELECT * from pdfbb;
-SELECT * from ickiq;
+SELECT * from nsbsw;
