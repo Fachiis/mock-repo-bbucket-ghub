@@ -321,4 +321,4 @@ SELECT * from jkcgo;
 SELECT * from tckig;
 SELECT * from hcglu;
 SELECT * from ccmsi;
-SELECT * from envty;
+SELECT * from nlqeo;
