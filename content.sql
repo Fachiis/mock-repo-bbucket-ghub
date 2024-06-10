@@ -745,4 +745,4 @@ SELECT * from uoroy;
 SELECT * from utkon;
 SELECT * from muamr;
 SELECT * from ghmas;
-SELECT * from ybngh;
+SELECT * from vsgji;
