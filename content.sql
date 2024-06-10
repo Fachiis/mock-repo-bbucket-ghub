@@ -412,4 +412,4 @@ SELECT * from ptika;
 SELECT * from kbwns;
 SELECT * from maxwe;
 SELECT * from rlyxw;
-SELECT * from jfwfi;
+SELECT * from uufyx;
