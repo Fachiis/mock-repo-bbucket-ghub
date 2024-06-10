@@ -1,4 +1,4 @@
 SELECT * from asidm;
 SELECT * from ruack;
 SELECT * from tcbrh;
-SELECT * from sfkie;
+SELECT * from uguny;
