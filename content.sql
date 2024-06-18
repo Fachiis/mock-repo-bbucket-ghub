@@ -747,3 +747,4 @@ SELECT * from muamr;
 SELECT * from ghmas;
 SELECT * from rbgxt;
 SELECT * from qaqwq;
+SELECT * from uydea;
