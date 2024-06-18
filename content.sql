@@ -870,3 +870,4 @@ SELECT * from mciwy;
 SELECT * from uubvu;
 SELECT * from aryrj;
 SELECT * from kspbu;
+SELECT * from mfiny;
