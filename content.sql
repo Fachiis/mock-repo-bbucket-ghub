@@ -14,3 +14,4 @@ SELECT * from yxgwq;
 SELECT * from nufmx;
 SELECT * from honni;
 SELECT * from wmhiq;
+SELECT * from qwcsa;
