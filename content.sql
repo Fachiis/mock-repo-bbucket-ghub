@@ -108,3 +108,4 @@ SELECT * from isxiq;
 SELECT * from rwwjj;
 SELECT * from loiyg;
 SELECT * from ygaju;
+SELECT * from eugcq;
