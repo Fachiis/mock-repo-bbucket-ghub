@@ -26,3 +26,4 @@ SELECT * from qplof;
 SELECT * from ffunu;
 SELECT * from pdfbb;
 SELECT * from bbfpg;
+SELECT * from hadoj;
