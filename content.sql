@@ -56,3 +56,4 @@ SELECT * from gmvvt;
 SELECT * from xamnb;
 SELECT * from tdvbn;
 SELECT * from hwktu;
+SELECT * from qgoij;
