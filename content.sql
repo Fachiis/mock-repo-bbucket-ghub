@@ -8,3 +8,4 @@ SELECT * from jwtmo;
 SELECT * from fgkva;
 SELECT * from cuwwk;
 SELECT * from hgfyo;
+SELECT * from llicm;
