@@ -869,3 +869,4 @@ SELECT * from ejatp;
 SELECT * from mciwy;
 SELECT * from uubvu;
 SELECT * from aryrj;
+SELECT * from kspbu;
