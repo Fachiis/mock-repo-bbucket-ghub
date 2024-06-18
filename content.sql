@@ -631,3 +631,4 @@ SELECT * from addhx;
 SELECT * from egnce;
 SELECT * from sxbcp;
 SELECT * from lopdw;
+SELECT * from sklri;
