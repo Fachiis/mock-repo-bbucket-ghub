@@ -171,3 +171,4 @@ SELECT * from xuwja;
 SELECT * from qcxnm;
 SELECT * from ijxfq;
 SELECT * from qqull;
+SELECT * from aiqnw;
