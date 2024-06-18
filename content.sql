@@ -21,3 +21,4 @@ SELECT * from evntx;
 SELECT * from ktrjt;
 SELECT * from vvdee;
 SELECT * from clmho;
+SELECT * from gatru;
