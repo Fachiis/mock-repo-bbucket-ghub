@@ -238,3 +238,4 @@ SELECT * from gadkk;
 SELECT * from cxuvi;
 SELECT * from hhrkm;
 SELECT * from dexhf;
+SELECT * from uepmw;
