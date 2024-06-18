@@ -20,3 +20,4 @@ SELECT * from mxfyg;
 SELECT * from evntx;
 SELECT * from ktrjt;
 SELECT * from vvdee;
+SELECT * from clmho;
