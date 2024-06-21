@@ -633,3 +633,4 @@ SELECT * from sxbcp;
 SELECT * from lopdw;
 SELECT * from sklri;
 SELECT * from txaej;
+SELECT * from twqgp;
