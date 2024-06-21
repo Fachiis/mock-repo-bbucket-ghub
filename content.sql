@@ -516,3 +516,4 @@ SELECT * from bxpwo;
 SELECT * from nhpqc;
 SELECT * from kelcw;
 SELECT * from jclou;
+SELECT * from ejpsm;
