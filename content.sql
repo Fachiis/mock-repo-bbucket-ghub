@@ -415,3 +415,4 @@ SELECT * from rlyxw;
 SELECT * from djhqg;
 SELECT * from txyjv;
 SELECT * from prjun;
+SELECT * from oogix;
