@@ -325,3 +325,4 @@ SELECT * from qemhn;
 SELECT * from fkkcx;
 SELECT * from qqhhh;
 SELECT * from uicwc;
+SELECT * from kaups;
