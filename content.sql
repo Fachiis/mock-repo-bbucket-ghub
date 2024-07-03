@@ -874,3 +874,4 @@ SELECT * from mfiny;
 SELECT * from vppmc;
 SELECT * from yqwuk;
 SELECT * from egonq;
+SELECT * from nrobo;
