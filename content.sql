@@ -31,3 +31,4 @@ SELECT * from xucls;
 SELECT * from bwkbc;
 SELECT * from jcauw;
 SELECT * from qtwfe;
+SELECT * from qovuf;
