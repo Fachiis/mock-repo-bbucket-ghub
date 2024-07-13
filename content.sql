@@ -521,4 +521,3 @@ SELECT * from vhbru;
 SELECT * from gofko;
 SELECT * from vbvgi;
 SELECT * from tiybw;
-SELECT * from pknoy;
