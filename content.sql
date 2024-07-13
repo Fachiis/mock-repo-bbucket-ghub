@@ -177,3 +177,4 @@ SELECT * from jqppa;
 SELECT * from auqdy;
 SELECT * from okhxn;
 SELECT * from acpti;
+SELECT * from mnaqi;
