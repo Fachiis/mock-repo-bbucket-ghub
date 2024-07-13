@@ -420,4 +420,3 @@ SELECT * from jxqtk;
 SELECT * from hpylb;
 SELECT * from fkevp;
 SELECT * from ndlkr;
-SELECT * from dgtlt;
