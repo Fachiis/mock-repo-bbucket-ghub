@@ -876,4 +876,3 @@ SELECT * from yqwuk;
 SELECT * from egonq;
 SELECT * from nrobo;
 SELECT * from detao;
-SELECT * from pdltw;
