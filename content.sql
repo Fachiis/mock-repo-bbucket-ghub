@@ -21,3 +21,4 @@ SELECT * from jigto;
 SELECT * from lartb;
 SELECT * from rypss;
 SELECT * from fvemv;
+SELECT * from nafit;
