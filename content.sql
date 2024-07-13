@@ -636,4 +636,3 @@ SELECT * from txaej;
 SELECT * from twqgp;
 SELECT * from vogpi;
 SELECT * from hcuky;
-SELECT * from afudx;
