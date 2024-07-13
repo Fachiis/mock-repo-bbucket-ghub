@@ -25,4 +25,3 @@ SELECT * from gatru;
 SELECT * from uyvap;
 SELECT * from qnwcc;
 SELECT * from xqbya;
-SELECT * from pjdsb;
