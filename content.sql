@@ -62,3 +62,4 @@ SELECT * from bkmdf;
 SELECT * from isfar;
 SELECT * from jknnj;
 SELECT * from hhmgg;
+SELECT * from yepsj;
