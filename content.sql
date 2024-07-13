@@ -418,4 +418,3 @@ SELECT * from prjun;
 SELECT * from oogix;
 SELECT * from jxqtk;
 SELECT * from hpylb;
-SELECT * from fkevp;
