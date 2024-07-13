@@ -9,3 +9,4 @@ SELECT * from pmyri;
 SELECT * from xobha;
 SELECT * from lwakp;
 SELECT * from vubqs;
+SELECT * from gdknn;
