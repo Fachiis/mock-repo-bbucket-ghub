@@ -329,4 +329,3 @@ SELECT * from kaups;
 SELECT * from rlbfo;
 SELECT * from hrctm;
 SELECT * from vpgeu;
-SELECT * from akqod;
