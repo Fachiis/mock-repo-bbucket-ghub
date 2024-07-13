@@ -15,4 +15,3 @@ SELECT * from nimbd;
 SELECT * from rtvuw;
 SELECT * from txhak;
 SELECT * from ftljr;
-SELECT * from fwucn;
