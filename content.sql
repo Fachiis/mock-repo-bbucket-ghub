@@ -113,4 +113,3 @@ SELECT * from xkhli;
 SELECT * from chory;
 SELECT * from edhwj;
 SELECT * from jiyes;
-SELECT * from eqanc;
