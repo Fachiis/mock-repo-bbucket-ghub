@@ -638,4 +638,3 @@ SELECT * from vogpi;
 SELECT * from hcuky;
 SELECT * from afudx;
 SELECT * from jplln;
-SELECT * from vylxa;
