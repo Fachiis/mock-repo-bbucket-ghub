@@ -244,3 +244,4 @@ SELECT * from vrnpw;
 SELECT * from kcjce;
 SELECT * from botrw;
 SELECT * from choov;
+SELECT * from qetrf;
