@@ -753,3 +753,4 @@ SELECT * from cqkbq;
 SELECT * from iaxxx;
 SELECT * from fjnoq;
 SELECT * from ytblf;
+SELECT * from yeyso;
