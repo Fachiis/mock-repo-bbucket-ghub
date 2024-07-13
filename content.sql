@@ -27,3 +27,4 @@ SELECT * from qnwcc;
 SELECT * from xqbya;
 SELECT * from pjdsb;
 SELECT * from gejde;
+SELECT * from xkccv;
