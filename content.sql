@@ -19,4 +19,3 @@ SELECT * from wgyrp;
 SELECT * from hlrjq;
 SELECT * from jigto;
 SELECT * from lartb;
-SELECT * from rypss;
