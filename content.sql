@@ -12,4 +12,3 @@ SELECT * from llicm;
 SELECT * from ypwgl;
 SELECT * from cxosf;
 SELECT * from nimbd;
-SELECT * from rtvuw;
