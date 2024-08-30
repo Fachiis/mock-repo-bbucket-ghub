@@ -750,4 +750,3 @@ SELECT * from qaqwq;
 SELECT * from uydea;
 SELECT * from rimma;
 SELECT * from cqkbq;
-SELECT * from oxdxc;
