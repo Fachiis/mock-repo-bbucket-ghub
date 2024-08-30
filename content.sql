@@ -635,4 +635,3 @@ SELECT * from sklri;
 SELECT * from txaej;
 SELECT * from twqgp;
 SELECT * from vogpi;
-SELECT * from lpcbg;
