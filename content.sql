@@ -326,4 +326,3 @@ SELECT * from fkkcx;
 SELECT * from qqhhh;
 SELECT * from uicwc;
 SELECT * from kaups;
-SELECT * from acphd;
