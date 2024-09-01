@@ -29,4 +29,3 @@ SELECT * from bbfpg;
 SELECT * from hadoj;
 SELECT * from xucls;
 SELECT * from bwkbc;
-SELECT * from jcauw;
