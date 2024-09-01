@@ -5,4 +5,3 @@ SELECT * from swnmx;
 SELECT * from mpguq;
 SELECT * from ksvtg;
 SELECT * from yufhd;
-SELECT * from pmyri;
