@@ -59,4 +59,3 @@ SELECT * from hwktu;
 SELECT * from qgoij;
 SELECT * from wehvd;
 SELECT * from bkmdf;
-SELECT * from isfar;
