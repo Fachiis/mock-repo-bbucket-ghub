@@ -16,4 +16,3 @@ SELECT * from honni;
 SELECT * from wmhiq;
 SELECT * from qwcsa;
 SELECT * from wgyrp;
-SELECT * from hlrjq;
