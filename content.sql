@@ -871,4 +871,3 @@ SELECT * from uubvu;
 SELECT * from aryrj;
 SELECT * from kspbu;
 SELECT * from mfiny;
-SELECT * from vppmc;
