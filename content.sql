@@ -173,3 +173,4 @@ SELECT * from ijxfq;
 SELECT * from qqull;
 SELECT * from aiqnw;
 SELECT * from qxrvo;
+SELECT * from mlius;
