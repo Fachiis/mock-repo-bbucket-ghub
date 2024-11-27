@@ -749,3 +749,4 @@ SELECT * from rbgxt;
 SELECT * from qaqwq;
 SELECT * from uydea;
 SELECT * from dexhq;
+SELECT * from bkshu;
