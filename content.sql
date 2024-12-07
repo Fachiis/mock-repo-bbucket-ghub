@@ -242,3 +242,4 @@ SELECT * from uepmw;
 SELECT * from vvfey;
 SELECT * from ajqbt;
 SELECT * from kvsmn;
+SELECT * from bymyr;
