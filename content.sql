@@ -518,3 +518,4 @@ SELECT * from kelcw;
 SELECT * from jclou;
 SELECT * from pxvnl;
 SELECT * from grcxj;
+SELECT * from lhicu;
