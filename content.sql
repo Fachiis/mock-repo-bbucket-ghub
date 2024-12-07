@@ -112,3 +112,4 @@ SELECT * from eugcq;
 SELECT * from xkhli;
 SELECT * from snjjt;
 SELECT * from xfgon;
+SELECT * from swxvs;
