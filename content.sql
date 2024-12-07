@@ -60,3 +60,4 @@ SELECT * from qgoij;
 SELECT * from wehvd;
 SELECT * from pbqbm;
 SELECT * from rcpwr;
+SELECT * from naqpi;
