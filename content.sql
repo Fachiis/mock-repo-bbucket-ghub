@@ -30,3 +30,4 @@ SELECT * from hadoj;
 SELECT * from xucls;
 SELECT * from btexk;
 SELECT * from foyyt;
+SELECT * from xpwaf;
