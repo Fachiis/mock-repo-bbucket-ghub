@@ -873,3 +873,4 @@ SELECT * from kspbu;
 SELECT * from mfiny;
 SELECT * from uwdpx;
 SELECT * from dsxfl;
+SELECT * from kpoww;
