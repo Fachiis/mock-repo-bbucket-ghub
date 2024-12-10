@@ -640,3 +640,4 @@ SELECT * from kllcv;
 SELECT * from jtdsl;
 SELECT * from ejppr;
 SELECT * from ehkic;
+SELECT * from vbkgt;
