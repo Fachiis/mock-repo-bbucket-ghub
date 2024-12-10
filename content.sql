@@ -330,3 +330,4 @@ SELECT * from kesxi;
 SELECT * from ocepp;
 SELECT * from angfc;
 SELECT * from uyjgv;
+SELECT * from sdpvn;
