@@ -35,3 +35,4 @@ SELECT * from dgace;
 SELECT * from aangg;
 SELECT * from akxvi;
 SELECT * from tnixj;
+SELECT * from svcco;
