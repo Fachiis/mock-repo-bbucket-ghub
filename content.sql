@@ -751,3 +751,6 @@ SELECT * from uydea;
 SELECT * from dexhq;
 SELECT * from bkshu;
 SELECT * from fqktu;
+SELECT * from gvywk;
+SELECT * from muibi;
+SELECT * from abtgd;
