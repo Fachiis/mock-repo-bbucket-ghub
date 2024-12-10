@@ -64,3 +64,4 @@ SELECT * from naqpi;
 SELECT * from oxbfv;
 SELECT * from ykjne;
 SELECT * from kxysv;
+SELECT * from oxirh;
