@@ -175,3 +175,6 @@ SELECT * from aiqnw;
 SELECT * from qxrvo;
 SELECT * from mlius;
 SELECT * from qibko;
+SELECT * from mhaxi;
+SELECT * from jdinw;
+SELECT * from vuarf;
