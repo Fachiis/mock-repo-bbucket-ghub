@@ -243,3 +243,6 @@ SELECT * from vvfey;
 SELECT * from ajqbt;
 SELECT * from kvsmn;
 SELECT * from bymyr;
+SELECT * from uqabd;
+SELECT * from gijas;
+SELECT * from aoxoj;
