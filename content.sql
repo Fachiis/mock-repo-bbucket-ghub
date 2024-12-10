@@ -31,3 +31,6 @@ SELECT * from xucls;
 SELECT * from btexk;
 SELECT * from foyyt;
 SELECT * from xpwaf;
+SELECT * from dgace;
+SELECT * from aangg;
+SELECT * from akxvi;
