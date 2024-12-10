@@ -65,3 +65,4 @@ SELECT * from oxbfv;
 SELECT * from ykjne;
 SELECT * from kxysv;
 SELECT * from vfybe;
+SELECT * from yiowm;
