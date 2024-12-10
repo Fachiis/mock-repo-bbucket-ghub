@@ -178,3 +178,4 @@ SELECT * from qibko;
 SELECT * from mhaxi;
 SELECT * from jdinw;
 SELECT * from vuarf;
+SELECT * from ovoca;
