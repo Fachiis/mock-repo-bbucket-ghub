@@ -418,3 +418,6 @@ SELECT * from prjun;
 SELECT * from hscwp;
 SELECT * from rhgqe;
 SELECT * from rfwox;
+SELECT * from udekx;
+SELECT * from dsksk;
+SELECT * from hseco;
