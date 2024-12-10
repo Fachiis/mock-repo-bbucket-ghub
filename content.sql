@@ -422,3 +422,4 @@ SELECT * from udekx;
 SELECT * from dsksk;
 SELECT * from hseco;
 SELECT * from kowle;
+SELECT * from kanel;
