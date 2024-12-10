@@ -113,3 +113,6 @@ SELECT * from xkhli;
 SELECT * from snjjt;
 SELECT * from xfgon;
 SELECT * from swxvs;
+SELECT * from hgnkd;
+SELECT * from fapsm;
+SELECT * from tvvoe;
