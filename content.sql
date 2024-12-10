@@ -247,3 +247,4 @@ SELECT * from uqabd;
 SELECT * from gijas;
 SELECT * from aoxoj;
 SELECT * from oyuys;
+SELECT * from itbuh;
