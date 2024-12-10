@@ -878,3 +878,4 @@ SELECT * from uipkr;
 SELECT * from hdmiy;
 SELECT * from xdshk;
 SELECT * from cpcxr;
+SELECT * from sewbp;
