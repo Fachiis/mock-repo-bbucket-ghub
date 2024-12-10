@@ -246,4 +246,4 @@ SELECT * from bymyr;
 SELECT * from uqabd;
 SELECT * from gijas;
 SELECT * from aoxoj;
-SELECT * from atahk;
+SELECT * from avqet;
