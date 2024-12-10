@@ -877,4 +877,4 @@ SELECT * from kpoww;
 SELECT * from uipkr;
 SELECT * from hdmiy;
 SELECT * from xdshk;
-SELECT * from baigl;
+SELECT * from kvycm;
