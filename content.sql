@@ -874,3 +874,6 @@ SELECT * from mfiny;
 SELECT * from uwdpx;
 SELECT * from dsxfl;
 SELECT * from kpoww;
+SELECT * from uipkr;
+SELECT * from hdmiy;
+SELECT * from xdshk;
