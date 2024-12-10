@@ -34,4 +34,4 @@ SELECT * from xpwaf;
 SELECT * from dgace;
 SELECT * from aangg;
 SELECT * from akxvi;
-SELECT * from olskg;
+SELECT * from xaoiq;
