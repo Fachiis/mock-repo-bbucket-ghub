@@ -421,3 +421,4 @@ SELECT * from rfwox;
 SELECT * from udekx;
 SELECT * from dsksk;
 SELECT * from hseco;
+SELECT * from yucxh;
