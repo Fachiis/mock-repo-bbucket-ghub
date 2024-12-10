@@ -636,3 +636,6 @@ SELECT * from txaej;
 SELECT * from pcocq;
 SELECT * from fsdhc;
 SELECT * from jiyrg;
+SELECT * from kllcv;
+SELECT * from jtdsl;
+SELECT * from ejppr;
