@@ -118,3 +118,4 @@ SELECT * from fapsm;
 SELECT * from tvvoe;
 SELECT * from vdnql;
 SELECT * from jqkwf;
+SELECT * from rlbpl;
