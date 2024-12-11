@@ -756,3 +756,4 @@ SELECT * from muibi;
 SELECT * from abtgd;
 SELECT * from pinff;
 SELECT * from sumfw;
+SELECT * from cgwhl;
