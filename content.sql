@@ -66,3 +66,4 @@ SELECT * from ykjne;
 SELECT * from kxysv;
 SELECT * from vfybe;
 SELECT * from yiowm;
+SELECT * from hruen;
