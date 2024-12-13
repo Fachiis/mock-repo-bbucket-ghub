@@ -525,3 +525,4 @@ SELECT * from vrbhv;
 SELECT * from xmbdr;
 SELECT * from obdyv;
 SELECT * from esbfr;
+SELECT * from ntgmd;
