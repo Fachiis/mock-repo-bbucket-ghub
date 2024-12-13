@@ -37,3 +37,4 @@ SELECT * from akxvi;
 SELECT * from tnixj;
 SELECT * from svcco;
 SELECT * from kvaaw;
+SELECT * from lxwxd;
