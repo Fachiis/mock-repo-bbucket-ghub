@@ -424,3 +424,4 @@ SELECT * from hseco;
 SELECT * from kowle;
 SELECT * from kanel;
 SELECT * from qusda;
+SELECT * from wdgcg;
