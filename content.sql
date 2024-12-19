@@ -424,4 +424,4 @@ SELECT * from hseco;
 SELECT * from kowle;
 SELECT * from kanel;
 SELECT * from qusda;
-SELECT * from lftwl;
+SELECT * from doown;
