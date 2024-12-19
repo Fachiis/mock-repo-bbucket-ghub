@@ -643,3 +643,4 @@ SELECT * from ehkic;
 SELECT * from vbkgt;
 SELECT * from xfmft;
 SELECT * from kekua;
+SELECT * from vowhj;
