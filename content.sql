@@ -67,4 +67,4 @@ SELECT * from kxysv;
 SELECT * from vfybe;
 SELECT * from yiowm;
 SELECT * from hruen;
-SELECT * from jbspc;
+SELECT * from foehy;
