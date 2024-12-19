@@ -526,4 +526,4 @@ SELECT * from xmbdr;
 SELECT * from obdyv;
 SELECT * from esbfr;
 SELECT * from ntgmd;
-SELECT * from ulpce;
+SELECT * from qqwsk;
