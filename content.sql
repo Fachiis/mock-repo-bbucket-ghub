@@ -758,4 +758,4 @@ SELECT * from pinff;
 SELECT * from sumfw;
 SELECT * from cgwhl;
 SELECT * from omxfs;
-SELECT * from omfha;
+SELECT * from cqyni;
