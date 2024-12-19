@@ -120,3 +120,4 @@ SELECT * from vdnql;
 SELECT * from jqkwf;
 SELECT * from rlbpl;
 SELECT * from yeuip;
+SELECT * from dxyti;
