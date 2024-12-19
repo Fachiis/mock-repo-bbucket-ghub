@@ -425,4 +425,4 @@ SELECT * from kowle;
 SELECT * from kanel;
 SELECT * from qusda;
 SELECT * from wdgcg;
-SELECT * from dcapd;
+SELECT * from doryc;
