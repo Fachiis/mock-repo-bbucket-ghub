@@ -38,3 +38,4 @@ SELECT * from tnixj;
 SELECT * from svcco;
 SELECT * from kvaaw;
 SELECT * from somgn;
+SELECT * from cwncj;
