@@ -250,3 +250,4 @@ SELECT * from oyuys;
 SELECT * from itbuh;
 SELECT * from eodkn;
 SELECT * from ulgnf;
+SELECT * from ejscn;
