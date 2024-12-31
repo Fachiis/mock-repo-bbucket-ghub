@@ -70,3 +70,4 @@ SELECT * from hruen;
 SELECT * from foehy;
 SELECT * from fngvk;
 SELECT * from cbmbt;
+SELECT * from jxkvc;
