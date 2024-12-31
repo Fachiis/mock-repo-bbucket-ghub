@@ -252,3 +252,4 @@ SELECT * from eodkn;
 SELECT * from ulgnf;
 SELECT * from ejscn;
 SELECT * from glijs;
+SELECT * from ldygb;
