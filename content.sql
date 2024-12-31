@@ -39,3 +39,4 @@ SELECT * from svcco;
 SELECT * from kvaaw;
 SELECT * from somgn;
 SELECT * from cwncj;
+SELECT * from biefo;
