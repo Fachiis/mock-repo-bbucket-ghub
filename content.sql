@@ -426,3 +426,4 @@ SELECT * from kanel;
 SELECT * from qusda;
 SELECT * from doown;
 SELECT * from nrgod;
+SELECT * from mgykh;
