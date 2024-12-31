@@ -760,3 +760,4 @@ SELECT * from cgwhl;
 SELECT * from mpwmg;
 SELECT * from lkwuq;
 SELECT * from orcue;
+SELECT * from avwqx;
