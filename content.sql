@@ -121,3 +121,4 @@ SELECT * from jqkwf;
 SELECT * from rlbpl;
 SELECT * from pmgil;
 SELECT * from tuyvs;
+SELECT * from psyyg;
