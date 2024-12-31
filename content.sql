@@ -645,3 +645,4 @@ SELECT * from xfmft;
 SELECT * from spxty;
 SELECT * from quwcw;
 SELECT * from ljxqg;
+SELECT * from baomv;
