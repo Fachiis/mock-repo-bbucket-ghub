@@ -184,3 +184,4 @@ SELECT * from qsihm;
 SELECT * from wwutq;
 SELECT * from mkskt;
 SELECT * from hpajs;
+SELECT * from rasgm;
