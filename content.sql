@@ -69,3 +69,4 @@ SELECT * from yiowm;
 SELECT * from hruen;
 SELECT * from foehy;
 SELECT * from fngvk;
+SELECT * from cbmbt;
