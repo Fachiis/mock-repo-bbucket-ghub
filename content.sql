@@ -337,3 +337,4 @@ SELECT * from jyqac;
 SELECT * from uhhxj;
 SELECT * from rejxp;
 SELECT * from hiejd;
+SELECT * from dredl;
