@@ -123,3 +123,4 @@ SELECT * from pmgil;
 SELECT * from tuyvs;
 SELECT * from psyyg;
 SELECT * from fntdh;
+SELECT * from awxwt;
