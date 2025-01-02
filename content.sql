@@ -125,3 +125,4 @@ SELECT * from psyyg;
 SELECT * from fntdh;
 SELECT * from awxwt;
 SELECT * from efgrx;
+SELECT * from enwbe;
