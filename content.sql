@@ -647,3 +647,4 @@ SELECT * from quwcw;
 SELECT * from ljxqg;
 SELECT * from baomv;
 SELECT * from cbyrt;
+SELECT * from ipqtg;
