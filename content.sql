@@ -340,3 +340,4 @@ SELECT * from hiejd;
 SELECT * from dredl;
 SELECT * from qhxlf;
 SELECT * from tpymt;
+SELECT * from xelwb;
