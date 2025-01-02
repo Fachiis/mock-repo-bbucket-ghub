@@ -72,3 +72,4 @@ SELECT * from fngvk;
 SELECT * from cbmbt;
 SELECT * from jxkvc;
 SELECT * from ntull;
+SELECT * from yvqmi;
