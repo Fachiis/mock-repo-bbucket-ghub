@@ -762,3 +762,4 @@ SELECT * from lkwuq;
 SELECT * from orcue;
 SELECT * from avwqx;
 SELECT * from qyrts;
+SELECT * from jtufs;
