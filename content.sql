@@ -254,3 +254,4 @@ SELECT * from ejscn;
 SELECT * from glijs;
 SELECT * from ldygb;
 SELECT * from bdtgf;
+SELECT * from xftca;
