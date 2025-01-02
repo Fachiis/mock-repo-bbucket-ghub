@@ -429,3 +429,4 @@ SELECT * from nrgod;
 SELECT * from mgykh;
 SELECT * from xxfer;
 SELECT * from lmtca;
+SELECT * from jddhj;
