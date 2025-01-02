@@ -530,3 +530,4 @@ SELECT * from wotqv;
 SELECT * from fvfit;
 SELECT * from soffn;
 SELECT * from dxrcv;
+SELECT * from gmwgf;
