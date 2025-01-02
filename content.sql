@@ -186,3 +186,4 @@ SELECT * from mkskt;
 SELECT * from hpajs;
 SELECT * from rasgm;
 SELECT * from bnofe;
+SELECT * from bgppe;
