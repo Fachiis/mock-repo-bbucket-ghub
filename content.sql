@@ -532,3 +532,4 @@ SELECT * from soffn;
 SELECT * from dxrcv;
 SELECT * from gmwgf;
 SELECT * from ydcnj;
+SELECT * from mftms;
