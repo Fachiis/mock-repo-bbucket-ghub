@@ -43,3 +43,4 @@ SELECT * from biefo;
 SELECT * from kjrgc;
 SELECT * from mktfs;
 SELECT * from emojt;
+SELECT * from vfwnp;
