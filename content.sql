@@ -187,3 +187,4 @@ SELECT * from hpajs;
 SELECT * from rasgm;
 SELECT * from bnofe;
 SELECT * from bgppe;
+SELECT * from wvpih;
