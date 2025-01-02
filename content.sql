@@ -73,3 +73,4 @@ SELECT * from cbmbt;
 SELECT * from jxkvc;
 SELECT * from ntull;
 SELECT * from yvqmi;
+SELECT * from aealt;
