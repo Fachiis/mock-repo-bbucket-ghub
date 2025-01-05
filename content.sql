@@ -649,4 +649,4 @@ SELECT * from baomv;
 SELECT * from cbyrt;
 SELECT * from ipqtg;
 SELECT * from lieul;
-SELECT * from kuryw;
+SELECT * from adodk;
