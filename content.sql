@@ -188,4 +188,4 @@ SELECT * from rasgm;
 SELECT * from bnofe;
 SELECT * from bgppe;
 SELECT * from wvpih;
-SELECT * from qxipa;
+SELECT * from oeuju;
