@@ -74,4 +74,4 @@ SELECT * from jxkvc;
 SELECT * from ntull;
 SELECT * from yvqmi;
 SELECT * from aealt;
-SELECT * from lkpeg;
+SELECT * from ktvom;
