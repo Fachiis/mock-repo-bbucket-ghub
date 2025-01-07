@@ -431,4 +431,4 @@ SELECT * from xxfer;
 SELECT * from lmtca;
 SELECT * from jddhj;
 SELECT * from fgmrk;
-SELECT * from eobwa;
+SELECT * from swyhi;
