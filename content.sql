@@ -189,3 +189,4 @@ SELECT * from bnofe;
 SELECT * from bgppe;
 SELECT * from wvpih;
 SELECT * from npsvb;
+SELECT * from exymj;
