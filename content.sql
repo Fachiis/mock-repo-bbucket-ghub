@@ -888,3 +888,4 @@ SELECT * from nunff;
 SELECT * from ajnof;
 SELECT * from snrgj;
 SELECT * from dqpvy;
+SELECT * from jcqny;
