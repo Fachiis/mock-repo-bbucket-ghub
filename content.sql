@@ -75,3 +75,4 @@ SELECT * from ntull;
 SELECT * from yvqmi;
 SELECT * from aealt;
 SELECT * from gnsjs;
+SELECT * from lxkqq;
