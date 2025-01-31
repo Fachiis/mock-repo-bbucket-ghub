@@ -341,3 +341,4 @@ SELECT * from dredl;
 SELECT * from qhxlf;
 SELECT * from tpymt;
 SELECT * from lhvfr;
+SELECT * from ddoun;
