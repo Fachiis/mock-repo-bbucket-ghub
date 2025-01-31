@@ -650,3 +650,4 @@ SELECT * from cbyrt;
 SELECT * from ipqtg;
 SELECT * from lieul;
 SELECT * from sxfka;
+SELECT * from meftu;
