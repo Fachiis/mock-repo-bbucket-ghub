@@ -127,3 +127,4 @@ SELECT * from awxwt;
 SELECT * from efgrx;
 SELECT * from enwbe;
 SELECT * from jmlmh;
+SELECT * from iioqy;
