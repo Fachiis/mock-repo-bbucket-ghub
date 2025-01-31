@@ -533,3 +533,4 @@ SELECT * from dxrcv;
 SELECT * from gmwgf;
 SELECT * from ydcnj;
 SELECT * from dbchq;
+SELECT * from nbbpi;
