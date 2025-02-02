@@ -47,3 +47,4 @@ SELECT * from vfwnp;
 SELECT * from inhat;
 SELECT * from xaofn;
 SELECT * from wfrrf;
+SELECT * from llagr;
