@@ -434,3 +434,4 @@ SELECT * from fgmrk;
 SELECT * from qkxwi;
 SELECT * from jrmkl;
 SELECT * from tcccn;
+SELECT * from oeisw;
