@@ -890,3 +890,4 @@ SELECT * from snrgj;
 SELECT * from dqpvy;
 SELECT * from jcqny;
 SELECT * from eglnx;
+SELECT * from odfie;
