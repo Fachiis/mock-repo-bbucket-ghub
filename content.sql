@@ -343,3 +343,4 @@ SELECT * from tpymt;
 SELECT * from lhvfr;
 SELECT * from ddoun;
 SELECT * from ejjxg;
+SELECT * from sskfs;
