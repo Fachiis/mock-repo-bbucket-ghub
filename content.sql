@@ -76,3 +76,4 @@ SELECT * from yvqmi;
 SELECT * from aealt;
 SELECT * from gnsjs;
 SELECT * from lxkqq;
+SELECT * from ikwcf;
