@@ -191,3 +191,4 @@ SELECT * from wvpih;
 SELECT * from npsvb;
 SELECT * from exymj;
 SELECT * from rcmmk;
+SELECT * from muupy;
