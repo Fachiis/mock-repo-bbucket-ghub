@@ -78,3 +78,4 @@ SELECT * from gnsjs;
 SELECT * from lxkqq;
 SELECT * from ikwcf;
 SELECT * from llfey;
+SELECT * from tsgcg;
