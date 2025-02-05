@@ -768,3 +768,4 @@ SELECT * from kcutf;
 SELECT * from pjbjc;
 SELECT * from oqpcs;
 SELECT * from ypxnw;
+SELECT * from fvass;
