@@ -260,3 +260,4 @@ SELECT * from pijif;
 SELECT * from entpo;
 SELECT * from biltl;
 SELECT * from pgksj;
+SELECT * from cnaxi;
