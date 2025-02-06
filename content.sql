@@ -346,3 +346,4 @@ SELECT * from ejjxg;
 SELECT * from sskfs;
 SELECT * from iaxfy;
 SELECT * from gilfx;
+SELECT * from twelr;
