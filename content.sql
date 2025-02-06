@@ -49,3 +49,4 @@ SELECT * from xaofn;
 SELECT * from wfrrf;
 SELECT * from llagr;
 SELECT * from pfktc;
+SELECT * from oohty;
