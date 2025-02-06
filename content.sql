@@ -131,3 +131,4 @@ SELECT * from iioqy;
 SELECT * from qdvvt;
 SELECT * from ofjto;
 SELECT * from fdgvc;
+SELECT * from bgtlt;
