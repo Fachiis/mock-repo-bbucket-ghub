@@ -194,3 +194,4 @@ SELECT * from rcmmk;
 SELECT * from muupy;
 SELECT * from gbqog;
 SELECT * from dooyg;
+SELECT * from wybsm;
