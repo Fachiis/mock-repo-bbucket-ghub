@@ -537,3 +537,4 @@ SELECT * from nbbpi;
 SELECT * from celti;
 SELECT * from ydown;
 SELECT * from fcaqj;
+SELECT * from lyjap;
