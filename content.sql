@@ -79,3 +79,4 @@ SELECT * from lxkqq;
 SELECT * from ikwcf;
 SELECT * from llfey;
 SELECT * from tsgcg;
+SELECT * from amefg;
