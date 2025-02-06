@@ -771,3 +771,4 @@ SELECT * from ypxnw;
 SELECT * from fvass;
 SELECT * from afreh;
 SELECT * from hmndr;
+SELECT * from nboqj;
