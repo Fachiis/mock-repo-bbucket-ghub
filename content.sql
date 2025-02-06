@@ -769,3 +769,4 @@ SELECT * from pjbjc;
 SELECT * from oqpcs;
 SELECT * from ypxnw;
 SELECT * from fvass;
+SELECT * from afreh;
