@@ -654,3 +654,4 @@ SELECT * from meftu;
 SELECT * from sgvpk;
 SELECT * from ivjum;
 SELECT * from bfjmg;
+SELECT * from sxchk;
