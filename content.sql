@@ -894,4 +894,4 @@ SELECT * from odfie;
 SELECT * from rdngq;
 SELECT * from guvpy;
 SELECT * from wvoop;
-SELECT * from oqpag;
+SELECT * from cujat;
