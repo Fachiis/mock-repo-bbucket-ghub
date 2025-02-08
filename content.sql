@@ -438,4 +438,4 @@ SELECT * from oeisw;
 SELECT * from ccqgx;
 SELECT * from mkmks;
 SELECT * from gplku;
-SELECT * from mhhru;
+SELECT * from ghgyd;
