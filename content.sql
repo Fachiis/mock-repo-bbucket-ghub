@@ -195,4 +195,4 @@ SELECT * from muupy;
 SELECT * from gbqog;
 SELECT * from dooyg;
 SELECT * from wybsm;
-SELECT * from bscpk;
+SELECT * from omimo;
