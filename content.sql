@@ -82,3 +82,4 @@ SELECT * from tsgcg;
 SELECT * from amefg;
 SELECT * from cjvng;
 SELECT * from boxrp;
+SELECT * from xursb;
