@@ -657,3 +657,4 @@ SELECT * from bfjmg;
 SELECT * from sxchk;
 SELECT * from wapkg;
 SELECT * from phefb;
+SELECT * from egdiv;
