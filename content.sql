@@ -895,3 +895,4 @@ SELECT * from rdngq;
 SELECT * from guvpy;
 SELECT * from wvoop;
 SELECT * from ijpmh;
+SELECT * from juuyh;
