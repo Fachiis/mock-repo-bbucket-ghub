@@ -197,3 +197,4 @@ SELECT * from dooyg;
 SELECT * from wybsm;
 SELECT * from omimo;
 SELECT * from nqnhu;
+SELECT * from spsbc;
