@@ -349,3 +349,4 @@ SELECT * from gilfx;
 SELECT * from twelr;
 SELECT * from agxnd;
 SELECT * from yajum;
+SELECT * from awkfq;
