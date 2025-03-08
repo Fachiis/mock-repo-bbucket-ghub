@@ -440,3 +440,4 @@ SELECT * from mkmks;
 SELECT * from gplku;
 SELECT * from ghgyd;
 SELECT * from xpwes;
+SELECT * from oajdj;
