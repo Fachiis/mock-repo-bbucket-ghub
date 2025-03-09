@@ -198,3 +198,4 @@ SELECT * from wybsm;
 SELECT * from omimo;
 SELECT * from nqnhu;
 SELECT * from spsbc;
+SELECT * from sjssc;
