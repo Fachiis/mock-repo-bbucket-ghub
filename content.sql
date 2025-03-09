@@ -774,3 +774,4 @@ SELECT * from hmndr;
 SELECT * from amgjg;
 SELECT * from xdlfg;
 SELECT * from tcjio;
+SELECT * from quxha;
