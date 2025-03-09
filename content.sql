@@ -659,3 +659,4 @@ SELECT * from wapkg;
 SELECT * from phefb;
 SELECT * from egdiv;
 SELECT * from ceogs;
+SELECT * from hqroc;
