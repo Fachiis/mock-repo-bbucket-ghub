@@ -351,3 +351,4 @@ SELECT * from agxnd;
 SELECT * from yajum;
 SELECT * from awkfq;
 SELECT * from dvups;
+SELECT * from hwkgx;
