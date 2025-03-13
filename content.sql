@@ -267,3 +267,4 @@ SELECT * from kintq;
 SELECT * from qejpi;
 SELECT * from bjjmu;
 SELECT * from ibbgh;
+SELECT * from lpqka;
