@@ -139,3 +139,4 @@ SELECT * from uhhoo;
 SELECT * from jcdpt;
 SELECT * from xehfi;
 SELECT * from xduje;
+SELECT * from frkuu;
