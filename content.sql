@@ -137,3 +137,4 @@ SELECT * from xkmmb;
 SELECT * from odypf;
 SELECT * from uhhoo;
 SELECT * from jcdpt;
+SELECT * from xehfi;
