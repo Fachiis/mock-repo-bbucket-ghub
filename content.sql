@@ -660,3 +660,4 @@ SELECT * from phefb;
 SELECT * from egdiv;
 SELECT * from ceogs;
 SELECT * from hqroc;
+SELECT * from dvtqk;
