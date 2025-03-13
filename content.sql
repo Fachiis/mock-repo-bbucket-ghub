@@ -200,3 +200,4 @@ SELECT * from nqnhu;
 SELECT * from spsbc;
 SELECT * from sjssc;
 SELECT * from jycqu;
+SELECT * from qqwfn;
