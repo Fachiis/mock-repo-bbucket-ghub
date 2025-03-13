@@ -900,3 +900,4 @@ SELECT * from erril;
 SELECT * from svhdb;
 SELECT * from afloy;
 SELECT * from hnruo;
+SELECT * from foxau;
