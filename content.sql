@@ -352,3 +352,4 @@ SELECT * from yajum;
 SELECT * from awkfq;
 SELECT * from dvups;
 SELECT * from hwkgx;
+SELECT * from wmidv;
