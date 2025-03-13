@@ -85,3 +85,4 @@ SELECT * from boxrp;
 SELECT * from xursb;
 SELECT * from baibi;
 SELECT * from tiiyl;
+SELECT * from cnutm;
