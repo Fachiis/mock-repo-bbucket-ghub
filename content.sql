@@ -353,3 +353,4 @@ SELECT * from awkfq;
 SELECT * from dvups;
 SELECT * from hwkgx;
 SELECT * from wmidv;
+SELECT * from gkgau;
