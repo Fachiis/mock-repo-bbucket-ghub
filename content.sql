@@ -354,3 +354,4 @@ SELECT * from dvups;
 SELECT * from hwkgx;
 SELECT * from wmidv;
 SELECT * from gkgau;
+SELECT * from ekwoe;
