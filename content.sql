@@ -898,3 +898,4 @@ SELECT * from ijpmh;
 SELECT * from juuyh;
 SELECT * from erril;
 SELECT * from svhdb;
+SELECT * from afloy;
