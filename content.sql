@@ -662,3 +662,4 @@ SELECT * from ceogs;
 SELECT * from hqroc;
 SELECT * from dvtqk;
 SELECT * from jcflb;
+SELECT * from aaphg;
