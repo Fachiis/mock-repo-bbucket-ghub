@@ -144,3 +144,4 @@ SELECT * from bmyin;
 SELECT * from ywvwg;
 SELECT * from asttj;
 SELECT * from wywhp;
+SELECT * from tseki;
