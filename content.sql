@@ -141,3 +141,4 @@ SELECT * from xehfi;
 SELECT * from xduje;
 SELECT * from frkuu;
 SELECT * from bmyin;
+SELECT * from ywvwg;
