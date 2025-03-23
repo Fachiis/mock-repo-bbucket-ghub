@@ -203,3 +203,4 @@ SELECT * from jycqu;
 SELECT * from qqwfn;
 SELECT * from hnkqt;
 SELECT * from tuhni;
+SELECT * from wwrnn;
