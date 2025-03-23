@@ -204,3 +204,4 @@ SELECT * from qqwfn;
 SELECT * from hnkqt;
 SELECT * from tuhni;
 SELECT * from wwrnn;
+SELECT * from geuhf;
