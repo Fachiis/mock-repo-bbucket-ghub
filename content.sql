@@ -274,3 +274,4 @@ SELECT * from xxojq;
 SELECT * from qfdmm;
 SELECT * from durxk;
 SELECT * from vuikk;
+SELECT * from hlsnv;
