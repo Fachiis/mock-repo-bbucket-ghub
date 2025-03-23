@@ -446,3 +446,4 @@ SELECT * from bespi;
 SELECT * from kcbsc;
 SELECT * from uqcja;
 SELECT * from mdise;
+SELECT * from qkcdm;
