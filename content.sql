@@ -779,3 +779,4 @@ SELECT * from fjoea;
 SELECT * from vwocx;
 SELECT * from srxxn;
 SELECT * from usmxv;
+SELECT * from qmfaa;
