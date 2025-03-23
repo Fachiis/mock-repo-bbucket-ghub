@@ -357,3 +357,4 @@ SELECT * from gkgau;
 SELECT * from ekwoe;
 SELECT * from ckycx;
 SELECT * from qkuob;
+SELECT * from ugoln;
