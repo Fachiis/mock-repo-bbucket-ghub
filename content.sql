@@ -548,3 +548,4 @@ SELECT * from prwbx;
 SELECT * from jphxu;
 SELECT * from epbtv;
 SELECT * from rekby;
+SELECT * from bldpd;
