@@ -550,4 +550,4 @@ SELECT * from epbtv;
 SELECT * from rekby;
 SELECT * from bldpd;
 SELECT * from nbxbc;
-SELECT * from mrgga;
+SELECT * from kcryx;
