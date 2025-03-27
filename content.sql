@@ -449,4 +449,4 @@ SELECT * from mdise;
 SELECT * from qkcdm;
 SELECT * from ssven;
 SELECT * from nhfnv;
-SELECT * from slykd;
+SELECT * from ovknc;
