@@ -667,4 +667,4 @@ SELECT * from dkqyi;
 SELECT * from gcbbp;
 SELECT * from imyup;
 SELECT * from vqtgf;
-SELECT * from qmpmt;
+SELECT * from uabbr;
