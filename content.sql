@@ -360,3 +360,4 @@ SELECT * from qkuob;
 SELECT * from ugoln;
 SELECT * from utwme;
 SELECT * from rqito;
+SELECT * from usrab;
