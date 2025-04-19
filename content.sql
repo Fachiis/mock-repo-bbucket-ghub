@@ -906,3 +906,4 @@ SELECT * from pcftu;
 SELECT * from rmeui;
 SELECT * from oockl;
 SELECT * from aefhp;
+SELECT * from prlpf;
