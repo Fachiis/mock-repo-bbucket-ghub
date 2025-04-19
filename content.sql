@@ -147,3 +147,4 @@ SELECT * from wywhp;
 SELECT * from hkhbt;
 SELECT * from todnv;
 SELECT * from afyqo;
+SELECT * from tbccs;
