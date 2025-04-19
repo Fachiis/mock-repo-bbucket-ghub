@@ -277,3 +277,4 @@ SELECT * from vuikk;
 SELECT * from roxco;
 SELECT * from rwjhl;
 SELECT * from pvpgw;
+SELECT * from bywsw;
