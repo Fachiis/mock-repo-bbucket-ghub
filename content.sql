@@ -784,3 +784,4 @@ SELECT * from unxeh;
 SELECT * from pibxn;
 SELECT * from jpbrp;
 SELECT * from udwxo;
+SELECT * from qudnn;
