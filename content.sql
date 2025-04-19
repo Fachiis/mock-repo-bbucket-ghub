@@ -93,3 +93,4 @@ SELECT * from jouaq;
 SELECT * from ahwcg;
 SELECT * from oerqg;
 SELECT * from twotb;
+SELECT * from oxfip;
