@@ -452,3 +452,4 @@ SELECT * from nhfnv;
 SELECT * from ovknc;
 SELECT * from gyrtt;
 SELECT * from mevdp;
+SELECT * from cvurq;
