@@ -450,3 +450,4 @@ SELECT * from qkcdm;
 SELECT * from ssven;
 SELECT * from nhfnv;
 SELECT * from ovknc;
+SELECT * from gyrtt;
