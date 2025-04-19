@@ -207,3 +207,4 @@ SELECT * from wwrnn;
 SELECT * from geuhf;
 SELECT * from dpmvs;
 SELECT * from nkqpr;
+SELECT * from ikqbb;
