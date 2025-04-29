@@ -554,3 +554,4 @@ SELECT * from kcryx;
 SELECT * from esthr;
 SELECT * from itbun;
 SELECT * from mmoto;
+SELECT * from mpkgk;
