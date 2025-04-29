@@ -453,3 +453,4 @@ SELECT * from ovknc;
 SELECT * from gyrtt;
 SELECT * from mevdp;
 SELECT * from cvurq;
+SELECT * from dgoya;
