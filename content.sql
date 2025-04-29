@@ -671,3 +671,4 @@ SELECT * from ljjgl;
 SELECT * from obpxo;
 SELECT * from wkngv;
 SELECT * from wreyg;
+SELECT * from adgsm;
