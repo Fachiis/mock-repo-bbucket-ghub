@@ -363,3 +363,4 @@ SELECT * from rqito;
 SELECT * from usrab;
 SELECT * from fdcxv;
 SELECT * from sclwu;
+SELECT * from nnmpn;
