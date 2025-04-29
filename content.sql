@@ -786,3 +786,4 @@ SELECT * from jpbrp;
 SELECT * from udwxo;
 SELECT * from qudnn;
 SELECT * from amrml;
+SELECT * from kjnek;
