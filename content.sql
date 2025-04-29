@@ -788,3 +788,4 @@ SELECT * from qudnn;
 SELECT * from amrml;
 SELECT * from kjnek;
 SELECT * from uxyhq;
+SELECT * from nxuhg;
