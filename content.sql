@@ -98,3 +98,4 @@ SELECT * from totlm;
 SELECT * from hhdnb;
 SELECT * from whefn;
 SELECT * from ujgmg;
+SELECT * from tspxk;
