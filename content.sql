@@ -212,3 +212,4 @@ SELECT * from xsrrm;
 SELECT * from duhri;
 SELECT * from iqhcx;
 SELECT * from amafr;
+SELECT * from qltah;
