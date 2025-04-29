@@ -278,3 +278,4 @@ SELECT * from roxco;
 SELECT * from rwjhl;
 SELECT * from pvpgw;
 SELECT * from bywsw;
+SELECT * from pusdb;
