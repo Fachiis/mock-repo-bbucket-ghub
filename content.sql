@@ -364,3 +364,4 @@ SELECT * from usrab;
 SELECT * from fdcxv;
 SELECT * from sclwu;
 SELECT * from nnmpn;
+SELECT * from rbegb;
