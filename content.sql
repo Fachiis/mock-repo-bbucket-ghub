@@ -556,3 +556,4 @@ SELECT * from itbun;
 SELECT * from mmoto;
 SELECT * from mpkgk;
 SELECT * from bojei;
+SELECT * from vuqth;
