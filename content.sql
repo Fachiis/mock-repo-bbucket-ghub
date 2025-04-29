@@ -96,3 +96,4 @@ SELECT * from twotb;
 SELECT * from oxfip;
 SELECT * from totlm;
 SELECT * from hhdnb;
+SELECT * from whefn;
