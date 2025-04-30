@@ -365,3 +365,4 @@ SELECT * from fdcxv;
 SELECT * from sclwu;
 SELECT * from nnmpn;
 SELECT * from rbegb;
+SELECT * from sqmac;
