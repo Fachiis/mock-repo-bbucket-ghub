@@ -151,3 +151,4 @@ SELECT * from tbccs;
 SELECT * from kpjwn;
 SELECT * from lrimd;
 SELECT * from ysdlt;
+SELECT * from qgcew;
