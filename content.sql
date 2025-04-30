@@ -456,3 +456,4 @@ SELECT * from cvurq;
 SELECT * from dgoya;
 SELECT * from qvfyk;
 SELECT * from nlwkx;
+SELECT * from fywan;
