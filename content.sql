@@ -152,3 +152,4 @@ SELECT * from kpjwn;
 SELECT * from lrimd;
 SELECT * from ysdlt;
 SELECT * from qgcew;
+SELECT * from cjeuf;
