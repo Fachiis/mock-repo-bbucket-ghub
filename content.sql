@@ -559,3 +559,4 @@ SELECT * from bojei;
 SELECT * from vuqth;
 SELECT * from sagsp;
 SELECT * from crqtb;
+SELECT * from idrdg;
