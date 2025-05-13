@@ -368,3 +368,4 @@ SELECT * from rbegb;
 SELECT * from sqmac;
 SELECT * from fptog;
 SELECT * from vhwin;
+SELECT * from kpqat;
