@@ -103,3 +103,4 @@ SELECT * from gysdd;
 SELECT * from hyfbx;
 SELECT * from muobb;
 SELECT * from vthfy;
+SELECT * from vfxpt;
