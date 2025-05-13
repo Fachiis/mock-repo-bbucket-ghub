@@ -216,3 +216,4 @@ SELECT * from qltah;
 SELECT * from mfytg;
 SELECT * from mvywo;
 SELECT * from mtnkc;
+SELECT * from umdgj;
