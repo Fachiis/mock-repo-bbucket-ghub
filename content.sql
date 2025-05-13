@@ -793,3 +793,4 @@ SELECT * from wdjff;
 SELECT * from mbbku;
 SELECT * from kmtee;
 SELECT * from vbqiw;
+SELECT * from lyyty;
