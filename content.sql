@@ -282,3 +282,4 @@ SELECT * from pusdb;
 SELECT * from vesqx;
 SELECT * from taiod;
 SELECT * from hvvhl;
+SELECT * from akyut;
