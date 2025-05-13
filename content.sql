@@ -366,3 +366,4 @@ SELECT * from sclwu;
 SELECT * from nnmpn;
 SELECT * from rbegb;
 SELECT * from sqmac;
+SELECT * from fptog;
