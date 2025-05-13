@@ -458,3 +458,4 @@ SELECT * from qvfyk;
 SELECT * from nlwkx;
 SELECT * from fywan;
 SELECT * from gvplo;
+SELECT * from memum;
