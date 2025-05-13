@@ -561,3 +561,4 @@ SELECT * from sagsp;
 SELECT * from crqtb;
 SELECT * from idrdg;
 SELECT * from jryuf;
+SELECT * from khglh;
