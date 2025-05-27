@@ -1,2 +1,5 @@
 /Contributions-Importer-For-Github
 .venv
+.vscode
+.idea
+.env

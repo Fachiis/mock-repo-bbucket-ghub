@@ -1,17 +1,25 @@
-# Contributions-Importer-For-Github/run_script.py
 import sys
-import git
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Add the contributions importer to the Python path
 sys.path.append("./Contributions-Importer-For-Github/")
 from git_contributions_importer import Importer
+import git
 
-# Your private repo or Bitbucket repo
-repo = git.Repo("/Users/fachiizasha/Code/iCUBEFARM/icfui-next")
-repo2 = git.Repo("/Users/fachiizasha/Code/iCUBEFARM/icf_upgrade")
-repo3 = git.Repo("/Users/fachiizasha/Code/Poblysh/poblysh-frontend")
+# Get repository paths from environment variables
+repo = git.Repo(os.getenv('ICF_UI_NEXT_PATH'))
+repo2 = git.Repo(os.getenv('ICF_UPGRADE_PATH'))
+repo3 = git.Repo(os.getenv('POBLYSH_FRONTEND_PATH'))
+
 # Your mock repo
-mock_repo = git.Repo("/Users/fachiizasha/Code/mock-repo-bbucket-ghub")
+mock_repo = git.Repo(os.getenv('MOCK_REPO_PATH'))
 importer = Importer([repo, repo2, repo3], mock_repo)
-# I use both my personal email and work email here,
-# Since the private repo uses work email, and Github uses my personal email
-importer.set_author(['zashafachii@gmail.com', 'felix@icubefarm.com', 'felix@poblysh.com',])
+
+# Get author emails from environment variables and split by comma
+author_emails = os.getenv('AUTHOR_EMAILS').split(',')
+importer.set_author(author_emails)
 importer.import_repository()
