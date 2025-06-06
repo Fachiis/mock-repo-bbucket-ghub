@@ -461,3 +461,4 @@ SELECT * from gvplo;
 SELECT * from memum;
 SELECT * from laded;
 SELECT * from mwdli;
+SELECT * from hobjn;
