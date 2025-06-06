@@ -679,3 +679,4 @@ SELECT * from xylhy;
 SELECT * from gunef;
 SELECT * from sgthp;
 SELECT * from lpopq;
+SELECT * from sbqqw;
