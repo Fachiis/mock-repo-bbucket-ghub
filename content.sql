@@ -218,3 +218,4 @@ SELECT * from mvywo;
 SELECT * from mtnkc;
 SELECT * from umdgj;
 SELECT * from pmyvd;
+SELECT * from fkeev;
