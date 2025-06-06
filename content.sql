@@ -919,3 +919,4 @@ SELECT * from jetbd;
 SELECT * from hfqnn;
 SELECT * from mtrbx;
 SELECT * from mqmwi;
+SELECT * from ykpid;
