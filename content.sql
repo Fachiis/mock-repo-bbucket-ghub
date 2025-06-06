@@ -370,3 +370,4 @@ SELECT * from fptog;
 SELECT * from vhwin;
 SELECT * from kpqat;
 SELECT * from wtjjr;
+SELECT * from ombdj;
