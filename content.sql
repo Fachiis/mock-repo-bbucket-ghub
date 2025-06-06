@@ -157,3 +157,4 @@ SELECT * from ormvj;
 SELECT * from muwsv;
 SELECT * from kxbjc;
 SELECT * from sevdd;
+SELECT * from qmple;
