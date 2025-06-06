@@ -286,3 +286,4 @@ SELECT * from akyut;
 SELECT * from jrwbv;
 SELECT * from mhoml;
 SELECT * from slfyx;
+SELECT * from vevyt;
