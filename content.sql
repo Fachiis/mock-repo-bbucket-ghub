@@ -562,3 +562,4 @@ SELECT * from crqtb;
 SELECT * from idrdg;
 SELECT * from jryuf;
 SELECT * from khglh;
+SELECT * from xneqy;
