@@ -158,3 +158,4 @@ SELECT * from muwsv;
 SELECT * from kxbjc;
 SELECT * from sevdd;
 SELECT * from qmple;
+SELECT * from ncfrm;
