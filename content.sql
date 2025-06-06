@@ -681,3 +681,4 @@ SELECT * from sgthp;
 SELECT * from lpopq;
 SELECT * from sbqqw;
 SELECT * from aqxpq;
+SELECT * from ajmdp;
