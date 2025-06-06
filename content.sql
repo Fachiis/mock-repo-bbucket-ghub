@@ -156,3 +156,4 @@ SELECT * from cjeuf;
 SELECT * from ormvj;
 SELECT * from muwsv;
 SELECT * from kxbjc;
+SELECT * from sevdd;
