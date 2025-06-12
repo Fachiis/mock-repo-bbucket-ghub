@@ -373,3 +373,4 @@ SELECT * from wtjjr;
 SELECT * from ombdj;
 SELECT * from omtkp;
 SELECT * from xunem;
+SELECT * from bxhmw;
