@@ -291,3 +291,4 @@ SELECT * from pfvln;
 SELECT * from aoewh;
 SELECT * from hdaxp;
 SELECT * from xmkvv;
+SELECT * from obnis;
