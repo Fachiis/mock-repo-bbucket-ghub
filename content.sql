@@ -921,3 +921,4 @@ SELECT * from mtrbx;
 SELECT * from mqmwi;
 SELECT * from ykpid;
 SELECT * from pfxik;
+SELECT * from gfaga;
