@@ -160,3 +160,4 @@ SELECT * from sevdd;
 SELECT * from qmple;
 SELECT * from ncfrm;
 SELECT * from mntsn;
+SELECT * from mlfic;
