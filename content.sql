@@ -159,3 +159,4 @@ SELECT * from kxbjc;
 SELECT * from sevdd;
 SELECT * from qmple;
 SELECT * from ncfrm;
+SELECT * from mntsn;
