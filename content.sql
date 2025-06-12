@@ -797,3 +797,4 @@ SELECT * from lyyty;
 SELECT * from kxnir;
 SELECT * from bnrjg;
 SELECT * from hyeik;
+SELECT * from ifltd;
