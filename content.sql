@@ -161,3 +161,4 @@ SELECT * from qmple;
 SELECT * from ncfrm;
 SELECT * from mntsn;
 SELECT * from mlfic;
+SELECT * from fwcej;
