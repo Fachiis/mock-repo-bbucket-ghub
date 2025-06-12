@@ -289,3 +289,4 @@ SELECT * from slfyx;
 SELECT * from vevyt;
 SELECT * from pfvln;
 SELECT * from aoewh;
+SELECT * from hdaxp;
