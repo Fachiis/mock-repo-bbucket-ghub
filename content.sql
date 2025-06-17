@@ -162,3 +162,4 @@ SELECT * from ncfrm;
 SELECT * from mntsn;
 SELECT * from mlfic;
 SELECT * from easky;
+SELECT * from myjgf;
