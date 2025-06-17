@@ -687,3 +687,4 @@ SELECT * from twhil;
 SELECT * from amrcl;
 SELECT * from ixvpi;
 SELECT * from obbel;
+SELECT * from kbaca;
