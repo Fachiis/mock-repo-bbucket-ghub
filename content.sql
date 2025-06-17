@@ -294,3 +294,4 @@ SELECT * from xmkvv;
 SELECT * from srgsa;
 SELECT * from gmnou;
 SELECT * from pnyix;
+SELECT * from rsnxj;
