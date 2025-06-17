@@ -469,3 +469,4 @@ SELECT * from rxeks;
 SELECT * from ynghj;
 SELECT * from xtlnc;
 SELECT * from kmhgm;
+SELECT * from ycvsa;
