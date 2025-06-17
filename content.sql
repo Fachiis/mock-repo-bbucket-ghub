@@ -164,3 +164,4 @@ SELECT * from mlfic;
 SELECT * from easky;
 SELECT * from myjgf;
 SELECT * from ohatc;
+SELECT * from eofmg;
