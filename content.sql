@@ -685,3 +685,4 @@ SELECT * from ajmdp;
 SELECT * from fyayn;
 SELECT * from twhil;
 SELECT * from amrcl;
+SELECT * from ixvpi;
