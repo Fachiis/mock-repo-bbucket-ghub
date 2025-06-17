@@ -377,3 +377,4 @@ SELECT * from bxhmw;
 SELECT * from dgvhf;
 SELECT * from lates;
 SELECT * from rpeim;
+SELECT * from tgomo;
