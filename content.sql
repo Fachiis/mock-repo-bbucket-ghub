@@ -378,3 +378,4 @@ SELECT * from dgvhf;
 SELECT * from lates;
 SELECT * from rpeim;
 SELECT * from tgomo;
+SELECT * from ruwpb;
