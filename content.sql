@@ -926,3 +926,4 @@ SELECT * from fuydv;
 SELECT * from qkedg;
 SELECT * from poxpn;
 SELECT * from ywkie;
+SELECT * from wupyj;
