@@ -467,3 +467,4 @@ SELECT * from pkvfy;
 SELECT * from rcgdx;
 SELECT * from rxeks;
 SELECT * from ynghj;
+SELECT * from xtlnc;
