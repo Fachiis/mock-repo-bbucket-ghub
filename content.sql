@@ -292,3 +292,4 @@ SELECT * from aoewh;
 SELECT * from hdaxp;
 SELECT * from xmkvv;
 SELECT * from srgsa;
+SELECT * from gmnou;
