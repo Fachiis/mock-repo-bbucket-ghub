@@ -224,3 +224,4 @@ SELECT * from gpljb;
 SELECT * from bwcjw;
 SELECT * from qqbnj;
 SELECT * from rnhon;
+SELECT * from vnrfy;
