@@ -802,3 +802,4 @@ SELECT * from ogmvu;
 SELECT * from tfmwv;
 SELECT * from xahnx;
 SELECT * from xoaxh;
+SELECT * from linkn;
