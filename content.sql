@@ -379,3 +379,4 @@ SELECT * from lates;
 SELECT * from rpeim;
 SELECT * from tgomo;
 SELECT * from ruwpb;
+SELECT * from edjtd;
