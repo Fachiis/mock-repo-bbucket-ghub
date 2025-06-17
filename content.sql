@@ -924,3 +924,4 @@ SELECT * from pfxik;
 SELECT * from gfaga;
 SELECT * from fuydv;
 SELECT * from qkedg;
+SELECT * from poxpn;
