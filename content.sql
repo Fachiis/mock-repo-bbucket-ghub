@@ -226,3 +226,4 @@ SELECT * from qqbnj;
 SELECT * from rnhon;
 SELECT * from vnrfy;
 SELECT * from lirpn;
+SELECT * from lmtod;
