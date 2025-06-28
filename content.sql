@@ -689,3 +689,4 @@ SELECT * from ixvpi;
 SELECT * from obbel;
 SELECT * from kbaca;
 SELECT * from rrcde;
+SELECT * from jfmwp;
