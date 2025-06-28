@@ -228,3 +228,4 @@ SELECT * from vnrfy;
 SELECT * from lirpn;
 SELECT * from lmtod;
 SELECT * from frald;
+SELECT * from ixhxn;
