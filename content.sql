@@ -380,3 +380,4 @@ SELECT * from rpeim;
 SELECT * from tgomo;
 SELECT * from ruwpb;
 SELECT * from edjtd;
+SELECT * from hvbqn;
