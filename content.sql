@@ -472,3 +472,4 @@ SELECT * from kmhgm;
 SELECT * from ycvsa;
 SELECT * from hsafc;
 SELECT * from mncqj;
+SELECT * from tltvn;
