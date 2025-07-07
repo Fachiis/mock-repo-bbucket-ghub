@@ -573,3 +573,4 @@ SELECT * from xdwrv;
 SELECT * from jprbd;
 SELECT * from rnkto;
 SELECT * from uvscd;
+SELECT * from hkejr;
