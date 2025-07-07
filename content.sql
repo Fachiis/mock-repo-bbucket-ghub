@@ -297,3 +297,4 @@ SELECT * from pnyix;
 SELECT * from rsnxj;
 SELECT * from anmgw;
 SELECT * from vpbtv;
+SELECT * from ejxbq;
