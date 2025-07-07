@@ -690,3 +690,4 @@ SELECT * from obbel;
 SELECT * from kbaca;
 SELECT * from rrcde;
 SELECT * from jfmwp;
+SELECT * from edkmu;
