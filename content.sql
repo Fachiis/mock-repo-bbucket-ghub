@@ -230,3 +230,4 @@ SELECT * from lmtod;
 SELECT * from frald;
 SELECT * from ixhxn;
 SELECT * from irrie;
+SELECT * from wgnid;
