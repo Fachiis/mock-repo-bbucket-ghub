@@ -693,3 +693,4 @@ SELECT * from jfmwp;
 SELECT * from edkmu;
 SELECT * from yicgc;
 SELECT * from ebuvv;
+SELECT * from vxmrs;
