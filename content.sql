@@ -932,3 +932,4 @@ SELECT * from bkkrx;
 SELECT * from drukd;
 SELECT * from lpcge;
 SELECT * from ilhus;
+SELECT * from omuyc;
