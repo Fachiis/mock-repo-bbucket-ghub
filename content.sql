@@ -929,3 +929,4 @@ SELECT * from ywkie;
 SELECT * from wupyj;
 SELECT * from govif;
 SELECT * from bkkrx;
+SELECT * from drukd;
