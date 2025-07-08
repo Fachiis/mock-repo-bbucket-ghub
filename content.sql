@@ -300,3 +300,4 @@ SELECT * from vpbtv;
 SELECT * from ejxbq;
 SELECT * from aearg;
 SELECT * from aveit;
+SELECT * from jbnlo;
