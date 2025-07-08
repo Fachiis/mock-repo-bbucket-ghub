@@ -232,3 +232,4 @@ SELECT * from ixhxn;
 SELECT * from irrie;
 SELECT * from wgnid;
 SELECT * from rbwpy;
+SELECT * from mlxwj;
