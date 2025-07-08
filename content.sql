@@ -298,3 +298,4 @@ SELECT * from rsnxj;
 SELECT * from anmgw;
 SELECT * from vpbtv;
 SELECT * from ejxbq;
+SELECT * from aearg;
