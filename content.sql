@@ -474,3 +474,4 @@ SELECT * from hsafc;
 SELECT * from mncqj;
 SELECT * from tltvn;
 SELECT * from easrs;
+SELECT * from yjhsq;
