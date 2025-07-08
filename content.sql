@@ -806,3 +806,4 @@ SELECT * from linkn;
 SELECT * from brkht;
 SELECT * from xjjnt;
 SELECT * from unvox;
+SELECT * from etncs;
