@@ -475,3 +475,4 @@ SELECT * from mncqj;
 SELECT * from tltvn;
 SELECT * from easrs;
 SELECT * from yjhsq;
+SELECT * from vsgiq;
