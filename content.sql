@@ -807,3 +807,4 @@ SELECT * from brkht;
 SELECT * from xjjnt;
 SELECT * from unvox;
 SELECT * from etncs;
+SELECT * from jkgdl;
