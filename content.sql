@@ -576,3 +576,4 @@ SELECT * from uvscd;
 SELECT * from hkejr;
 SELECT * from hbclm;
 SELECT * from qfhov;
+SELECT * from aebvn;
