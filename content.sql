@@ -385,4 +385,4 @@ SELECT * from hrxpd;
 SELECT * from lhusf;
 SELECT * from jqayo;
 SELECT * from qvdhk;
-SELECT * from kuyuu;
+SELECT * from chvum;
