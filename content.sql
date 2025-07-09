@@ -301,4 +301,4 @@ SELECT * from ejxbq;
 SELECT * from aearg;
 SELECT * from aveit;
 SELECT * from jbnlo;
-SELECT * from dkafi;
+SELECT * from ugase;
