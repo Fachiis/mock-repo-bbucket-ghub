@@ -694,4 +694,4 @@ SELECT * from edkmu;
 SELECT * from yicgc;
 SELECT * from ebuvv;
 SELECT * from vxmrs;
-SELECT * from vtanc;
+SELECT * from odlfm;
