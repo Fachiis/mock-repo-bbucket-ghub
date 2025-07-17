@@ -11,9 +11,9 @@ from git_contributions_importer import Importer
 import git
 
 # Get repository paths from environment variables
-repo = git.Repo(os.getenv('ICF_UI_NEXT_PATH'))
-repo2 = git.Repo(os.getenv('ICF_UPGRADE_PATH'))
-repo3 = git.Repo(os.getenv('POBLYSH_FRONTEND_PATH'))
+repo = git.Repo(os.getenv('PROJ_ONE'))
+repo2 = git.Repo(os.getenv('PROJ_TWO'))
+repo3 = git.Repo(os.getenv('PROJ_THREE'))
 
 # Your mock repo
 mock_repo = git.Repo(os.getenv('MOCK_REPO_PATH'))
