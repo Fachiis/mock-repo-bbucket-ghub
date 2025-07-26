@@ -578,3 +578,4 @@ SELECT * from hbclm;
 SELECT * from qfhov;
 SELECT * from aebvn;
 SELECT * from rfawf;
+SELECT * from qousq;
