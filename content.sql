@@ -695,3 +695,4 @@ SELECT * from yicgc;
 SELECT * from ebuvv;
 SELECT * from vxmrs;
 SELECT * from mrahd;
+SELECT * from svlvw;
