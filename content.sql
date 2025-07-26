@@ -387,3 +387,4 @@ SELECT * from jqayo;
 SELECT * from qvdhk;
 SELECT * from chvum;
 SELECT * from lxwdi;
+SELECT * from cnqji;
