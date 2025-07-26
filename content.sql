@@ -579,3 +579,4 @@ SELECT * from qfhov;
 SELECT * from aebvn;
 SELECT * from rfawf;
 SELECT * from qousq;
+SELECT * from qdnny;
