@@ -479,3 +479,4 @@ SELECT * from vsgiq;
 SELECT * from nmbmu;
 SELECT * from hhvtq;
 SELECT * from okipc;
+SELECT * from rkejl;
