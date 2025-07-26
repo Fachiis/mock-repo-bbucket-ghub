@@ -304,3 +304,4 @@ SELECT * from jbnlo;
 SELECT * from ugase;
 SELECT * from ofgek;
 SELECT * from nnlir;
+SELECT * from ilqym;
