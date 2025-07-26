@@ -303,3 +303,4 @@ SELECT * from aveit;
 SELECT * from jbnlo;
 SELECT * from ugase;
 SELECT * from ofgek;
+SELECT * from nnlir;
