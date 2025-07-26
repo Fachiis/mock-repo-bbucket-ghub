@@ -480,3 +480,4 @@ SELECT * from nmbmu;
 SELECT * from hhvtq;
 SELECT * from okipc;
 SELECT * from rkejl;
+SELECT * from wrfip;
