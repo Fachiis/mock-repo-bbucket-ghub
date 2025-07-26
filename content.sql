@@ -934,3 +934,4 @@ SELECT * from lpcge;
 SELECT * from ilhus;
 SELECT * from sdxjq;
 SELECT * from ytjsq;
+SELECT * from krair;
