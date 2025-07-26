@@ -388,3 +388,4 @@ SELECT * from qvdhk;
 SELECT * from chvum;
 SELECT * from lxwdi;
 SELECT * from cnqji;
+SELECT * from hmsnv;
