@@ -699,3 +699,4 @@ SELECT * from svlvw;
 SELECT * from kqwrw;
 SELECT * from gdiwh;
 SELECT * from uwqpk;
+SELECT * from swefh;
