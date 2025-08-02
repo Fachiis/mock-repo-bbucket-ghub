@@ -393,3 +393,4 @@ SELECT * from vamdx;
 SELECT * from gdvie;
 SELECT * from fcnhy;
 SELECT * from dvoxf;
+SELECT * from yxsof;
