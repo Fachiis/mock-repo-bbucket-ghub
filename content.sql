@@ -390,3 +390,4 @@ SELECT * from lxwdi;
 SELECT * from cnqji;
 SELECT * from hmsnv;
 SELECT * from vamdx;
+SELECT * from gdvie;
