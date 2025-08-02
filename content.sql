@@ -584,3 +584,4 @@ SELECT * from uixqi;
 SELECT * from boetn;
 SELECT * from rsqap;
 SELECT * from bihly;
+SELECT * from iaqyn;
