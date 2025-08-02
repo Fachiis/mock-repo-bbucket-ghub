@@ -938,3 +938,4 @@ SELECT * from krair;
 SELECT * from ghyri;
 SELECT * from hiwkh;
 SELECT * from cjxmw;
+SELECT * from beqjw;
