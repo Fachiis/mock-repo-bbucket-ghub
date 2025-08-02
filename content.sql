@@ -484,3 +484,4 @@ SELECT * from wrfip;
 SELECT * from jwfds;
 SELECT * from dbuoj;
 SELECT * from raymh;
+SELECT * from wxxya;
