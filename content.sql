@@ -482,3 +482,4 @@ SELECT * from okipc;
 SELECT * from rkejl;
 SELECT * from wrfip;
 SELECT * from jwfds;
+SELECT * from dbuoj;
