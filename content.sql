@@ -583,3 +583,4 @@ SELECT * from qdnny;
 SELECT * from uixqi;
 SELECT * from boetn;
 SELECT * from rsqap;
+SELECT * from bihly;
