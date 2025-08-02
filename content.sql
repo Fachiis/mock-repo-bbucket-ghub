@@ -816,3 +816,4 @@ SELECT * from pyfmc;
 SELECT * from tvecf;
 SELECT * from twulo;
 SELECT * from rlcmd;
+SELECT * from bngos;
