@@ -700,3 +700,4 @@ SELECT * from kqwrw;
 SELECT * from gdiwh;
 SELECT * from uwqpk;
 SELECT * from swefh;
+SELECT * from bober;
