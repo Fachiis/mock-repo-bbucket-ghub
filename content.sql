@@ -814,3 +814,4 @@ SELECT * from sfvsv;
 SELECT * from lfbgu;
 SELECT * from pyfmc;
 SELECT * from tvecf;
+SELECT * from twulo;
