@@ -940,3 +940,4 @@ SELECT * from hiwkh;
 SELECT * from cjxmw;
 SELECT * from beqjw;
 SELECT * from beduy;
+SELECT * from strvh;
