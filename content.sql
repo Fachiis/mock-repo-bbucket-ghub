@@ -307,3 +307,4 @@ SELECT * from nnlir;
 SELECT * from ilqym;
 SELECT * from wfmck;
 SELECT * from wkjin;
+SELECT * from wtxfl;
