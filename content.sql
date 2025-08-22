@@ -485,3 +485,4 @@ SELECT * from jwfds;
 SELECT * from dbuoj;
 SELECT * from raymh;
 SELECT * from wxxya;
+SELECT * from jmsus;
