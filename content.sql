@@ -488,3 +488,4 @@ SELECT * from wxxya;
 SELECT * from jmsus;
 SELECT * from kdydy;
 SELECT * from optnf;
+SELECT * from wrokp;
