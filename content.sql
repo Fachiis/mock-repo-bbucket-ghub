@@ -313,3 +313,4 @@ SELECT * from udioo;
 SELECT * from qlhnp;
 SELECT * from ftdbu;
 SELECT * from qlypn;
+SELECT * from bfuce;
