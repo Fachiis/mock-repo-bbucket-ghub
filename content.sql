@@ -397,3 +397,4 @@ SELECT * from yxsof;
 SELECT * from qxdnm;
 SELECT * from hktra;
 SELECT * from sraim;
+SELECT * from kbgxv;
