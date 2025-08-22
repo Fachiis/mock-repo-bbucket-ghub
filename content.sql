@@ -486,3 +486,4 @@ SELECT * from dbuoj;
 SELECT * from raymh;
 SELECT * from wxxya;
 SELECT * from jmsus;
+SELECT * from kdydy;
