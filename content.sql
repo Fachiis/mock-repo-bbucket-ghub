@@ -310,3 +310,4 @@ SELECT * from wkjin;
 SELECT * from wtxfl;
 SELECT * from khpao;
 SELECT * from udioo;
+SELECT * from qlhnp;
