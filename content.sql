@@ -819,3 +819,4 @@ SELECT * from rlcmd;
 SELECT * from bngos;
 SELECT * from mhoig;
 SELECT * from heqmb;
+SELECT * from hqebu;
