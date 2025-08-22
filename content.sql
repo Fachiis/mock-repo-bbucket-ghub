@@ -941,3 +941,4 @@ SELECT * from cjxmw;
 SELECT * from beqjw;
 SELECT * from beduy;
 SELECT * from strvh;
+SELECT * from dwxdi;
