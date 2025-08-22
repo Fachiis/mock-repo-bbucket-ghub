@@ -943,3 +943,4 @@ SELECT * from beduy;
 SELECT * from strvh;
 SELECT * from dwxdi;
 SELECT * from kvbgc;
+SELECT * from holuj;
