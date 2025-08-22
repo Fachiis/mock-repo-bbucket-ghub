@@ -311,3 +311,4 @@ SELECT * from wtxfl;
 SELECT * from khpao;
 SELECT * from udioo;
 SELECT * from qlhnp;
+SELECT * from ftdbu;
