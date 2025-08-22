@@ -705,3 +705,4 @@ SELECT * from hljjn;
 SELECT * from lqluk;
 SELECT * from qdnvk;
 SELECT * from usvrl;
+SELECT * from rivjk;
