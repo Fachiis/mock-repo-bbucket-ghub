@@ -704,3 +704,4 @@ SELECT * from bober;
 SELECT * from hljjn;
 SELECT * from lqluk;
 SELECT * from qdnvk;
+SELECT * from usvrl;
