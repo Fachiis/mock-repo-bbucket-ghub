@@ -492,3 +492,4 @@ SELECT * from wrokp;
 SELECT * from lppnj;
 SELECT * from ucqfg;
 SELECT * from fixbs;
+SELECT * from nytlp;
