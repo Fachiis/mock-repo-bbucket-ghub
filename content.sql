@@ -709,3 +709,4 @@ SELECT * from rivjk;
 SELECT * from aiatp;
 SELECT * from jperr;
 SELECT * from nhfcl;
+SELECT * from krcad;
