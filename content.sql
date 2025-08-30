@@ -707,3 +707,4 @@ SELECT * from qdnvk;
 SELECT * from usvrl;
 SELECT * from rivjk;
 SELECT * from aiatp;
+SELECT * from jperr;
