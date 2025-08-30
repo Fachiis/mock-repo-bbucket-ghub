@@ -399,3 +399,4 @@ SELECT * from hktra;
 SELECT * from sraim;
 SELECT * from kbgxv;
 SELECT * from spvea;
+SELECT * from oqqmo;
