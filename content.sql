@@ -489,3 +489,4 @@ SELECT * from jmsus;
 SELECT * from kdydy;
 SELECT * from optnf;
 SELECT * from wrokp;
+SELECT * from lppnj;
