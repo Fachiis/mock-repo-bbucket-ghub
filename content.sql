@@ -316,3 +316,4 @@ SELECT * from qlypn;
 SELECT * from bfuce;
 SELECT * from fiqer;
 SELECT * from hhuaq;
+SELECT * from ajiek;
