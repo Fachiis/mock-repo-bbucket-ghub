@@ -947,3 +947,4 @@ SELECT * from holuj;
 SELECT * from gkorr;
 SELECT * from oswjm;
 SELECT * from cfkwb;
+SELECT * from cnqru;
