@@ -490,3 +490,4 @@ SELECT * from kdydy;
 SELECT * from optnf;
 SELECT * from wrokp;
 SELECT * from lppnj;
+SELECT * from ucqfg;
