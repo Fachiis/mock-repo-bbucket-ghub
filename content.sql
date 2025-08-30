@@ -825,3 +825,4 @@ SELECT * from qqyae;
 SELECT * from yrqmm;
 SELECT * from edanh;
 SELECT * from mvfku;
+SELECT * from kpycf;
