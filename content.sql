@@ -949,3 +949,4 @@ SELECT * from oswjm;
 SELECT * from cfkwb;
 SELECT * from cnqru;
 SELECT * from uqdty;
+SELECT * from iqivu;
