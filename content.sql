@@ -402,3 +402,4 @@ SELECT * from spvea;
 SELECT * from oqqmo;
 SELECT * from lscah;
 SELECT * from jvtgq;
+SELECT * from gnswq;
