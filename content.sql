@@ -594,3 +594,4 @@ SELECT * from yemnt;
 SELECT * from lvrob;
 SELECT * from pjjbe;
 SELECT * from siwul;
+SELECT * from kxgob;
