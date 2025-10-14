@@ -950,4 +950,4 @@ SELECT * from cfkwb;
 SELECT * from cnqru;
 SELECT * from uqdty;
 SELECT * from iqivu;
-SELECT * from fyman;
+SELECT * from sfmxe;
