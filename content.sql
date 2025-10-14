@@ -827,4 +827,4 @@ SELECT * from edanh;
 SELECT * from mvfku;
 SELECT * from kpycf;
 SELECT * from tfskr;
-SELECT * from govek;
+SELECT * from ephxb;
