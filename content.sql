@@ -595,4 +595,4 @@ SELECT * from lvrob;
 SELECT * from pjjbe;
 SELECT * from siwul;
 SELECT * from kxgob;
-SELECT * from ysbkh;
+SELECT * from yhqgs;
