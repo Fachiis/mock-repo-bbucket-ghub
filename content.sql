@@ -406,3 +406,4 @@ SELECT * from gnswq;
 SELECT * from iejba;
 SELECT * from dsoay;
 SELECT * from lcftf;
+SELECT * from vtfup;
