@@ -496,3 +496,4 @@ SELECT * from nytlp;
 SELECT * from awkee;
 SELECT * from efbyi;
 SELECT * from iojny;
+SELECT * from edkdf;
