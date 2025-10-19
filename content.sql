@@ -597,3 +597,4 @@ SELECT * from siwul;
 SELECT * from kxgob;
 SELECT * from vedoo;
 SELECT * from cycht;
+SELECT * from yaxxa;
