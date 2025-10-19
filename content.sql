@@ -829,3 +829,4 @@ SELECT * from kpycf;
 SELECT * from tfskr;
 SELECT * from qhpil;
 SELECT * from yijfy;
+SELECT * from phiqo;
