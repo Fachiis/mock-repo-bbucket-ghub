@@ -596,3 +596,4 @@ SELECT * from pjjbe;
 SELECT * from siwul;
 SELECT * from kxgob;
 SELECT * from vedoo;
+SELECT * from cycht;
