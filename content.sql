@@ -714,3 +714,4 @@ SELECT * from fgybh;
 SELECT * from ytgvy;
 SELECT * from bxatm;
 SELECT * from fakqt;
+SELECT * from bjosy;
