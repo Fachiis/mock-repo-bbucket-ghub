@@ -830,3 +830,4 @@ SELECT * from tfskr;
 SELECT * from qhpil;
 SELECT * from yijfy;
 SELECT * from phiqo;
+SELECT * from enphe;
