@@ -952,3 +952,4 @@ SELECT * from uqdty;
 SELECT * from iqivu;
 SELECT * from lyujl;
 SELECT * from guduv;
+SELECT * from alnoy;
