@@ -598,4 +598,4 @@ SELECT * from kxgob;
 SELECT * from vedoo;
 SELECT * from cycht;
 SELECT * from yaxxa;
-SELECT * from yqrqa;
+SELECT * from fpdki;
