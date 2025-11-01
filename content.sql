@@ -832,3 +832,4 @@ SELECT * from yijfy;
 SELECT * from phiqo;
 SELECT * from gtywr;
 SELECT * from njlsy;
+SELECT * from xnehm;
