@@ -717,3 +717,4 @@ SELECT * from fakqt;
 SELECT * from bjosy;
 SELECT * from msose;
 SELECT * from eself;
+SELECT * from cviqw;
