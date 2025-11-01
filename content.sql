@@ -407,3 +407,4 @@ SELECT * from iejba;
 SELECT * from dsoay;
 SELECT * from lcftf;
 SELECT * from cahvc;
+SELECT * from soktm;
