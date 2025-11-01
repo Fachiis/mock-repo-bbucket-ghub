@@ -599,3 +599,4 @@ SELECT * from vedoo;
 SELECT * from cycht;
 SELECT * from yaxxa;
 SELECT * from fpdki;
+SELECT * from btlys;
