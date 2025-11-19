@@ -500,3 +500,4 @@ SELECT * from edkdf;
 SELECT * from wtdua;
 SELECT * from ygqru;
 SELECT * from isher;
+SELECT * from xpbpq;
