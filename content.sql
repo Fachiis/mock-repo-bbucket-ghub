@@ -956,3 +956,4 @@ SELECT * from alnoy;
 SELECT * from gdrdu;
 SELECT * from clnhs;
 SELECT * from luksr;
+SELECT * from cfqlp;
