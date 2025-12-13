@@ -603,3 +603,4 @@ SELECT * from btlys;
 SELECT * from grqal;
 SELECT * from ayuys;
 SELECT * from hlodf;
+SELECT * from wunen;
