@@ -835,3 +835,4 @@ SELECT * from njlsy;
 SELECT * from xnehm;
 SELECT * from jrxux;
 SELECT * from mqmev;
+SELECT * from wtnxo;
