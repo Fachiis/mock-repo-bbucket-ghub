@@ -721,3 +721,4 @@ SELECT * from cviqw;
 SELECT * from tqxbr;
 SELECT * from dewyh;
 SELECT * from vrsmm;
+SELECT * from cpmnk;
