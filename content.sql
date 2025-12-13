@@ -504,3 +504,4 @@ SELECT * from xpbpq;
 SELECT * from meyyv;
 SELECT * from xphpu;
 SELECT * from vicdm;
+SELECT * from nrjrg;
