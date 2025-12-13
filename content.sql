@@ -960,3 +960,4 @@ SELECT * from cfqlp;
 SELECT * from vhfhq;
 SELECT * from veadc;
 SELECT * from ihfwr;
+SELECT * from nxbvd;
