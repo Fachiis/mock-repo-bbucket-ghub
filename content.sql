@@ -503,3 +503,4 @@ SELECT * from isher;
 SELECT * from xpbpq;
 SELECT * from meyyv;
 SELECT * from xphpu;
+SELECT * from vicdm;
