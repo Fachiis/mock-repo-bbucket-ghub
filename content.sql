@@ -724,3 +724,4 @@ SELECT * from vrsmm;
 SELECT * from cpmnk;
 SELECT * from fqxuu;
 SELECT * from nkvah;
+SELECT * from ooutp;
