@@ -506,3 +506,4 @@ SELECT * from xphpu;
 SELECT * from vicdm;
 SELECT * from nrjrg;
 SELECT * from lrase;
+SELECT * from myqfd;
