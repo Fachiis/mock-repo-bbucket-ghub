@@ -608,3 +608,4 @@ SELECT * from orxsd;
 SELECT * from blekg;
 SELECT * from nqopr;
 SELECT * from iaeck;
+SELECT * from hmmuw;
