@@ -726,3 +726,4 @@ SELECT * from fqxuu;
 SELECT * from nkvah;
 SELECT * from ooutp;
 SELECT * from twgel;
+SELECT * from kolhj;
