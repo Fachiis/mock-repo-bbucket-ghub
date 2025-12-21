@@ -609,3 +609,4 @@ SELECT * from blekg;
 SELECT * from nqopr;
 SELECT * from iaeck;
 SELECT * from hmmuw;
+SELECT * from yijhb;
