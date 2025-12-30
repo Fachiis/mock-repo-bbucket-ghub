@@ -967,3 +967,4 @@ SELECT * from pqliv;
 SELECT * from hlwfy;
 SELECT * from yqxjf;
 SELECT * from yxcew;
+SELECT * from ptipe;
