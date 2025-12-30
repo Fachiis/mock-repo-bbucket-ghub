@@ -844,3 +844,4 @@ SELECT * from kewnx;
 SELECT * from ustgw;
 SELECT * from jloic;
 SELECT * from tgrfo;
+SELECT * from ogcsu;
