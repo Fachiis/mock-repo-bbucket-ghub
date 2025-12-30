@@ -728,3 +728,4 @@ SELECT * from ooutp;
 SELECT * from twgel;
 SELECT * from kolhj;
 SELECT * from ubcmk;
+SELECT * from doaho;
