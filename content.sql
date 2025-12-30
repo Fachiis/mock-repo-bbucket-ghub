@@ -614,3 +614,4 @@ SELECT * from epcxy;
 SELECT * from pvgmr;
 SELECT * from udjra;
 SELECT * from yaanr;
+SELECT * from alsms;
