@@ -612,3 +612,4 @@ SELECT * from hmmuw;
 SELECT * from yijhb;
 SELECT * from epcxy;
 SELECT * from pvgmr;
+SELECT * from udjra;
