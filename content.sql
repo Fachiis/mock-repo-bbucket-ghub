@@ -845,3 +845,4 @@ SELECT * from ustgw;
 SELECT * from jloic;
 SELECT * from tgrfo;
 SELECT * from ogcsu;
+SELECT * from dvpow;
