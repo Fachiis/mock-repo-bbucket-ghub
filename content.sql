@@ -615,3 +615,4 @@ SELECT * from pvgmr;
 SELECT * from udjra;
 SELECT * from yaanr;
 SELECT * from alsms;
+SELECT * from tnibg;
