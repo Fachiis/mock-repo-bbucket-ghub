@@ -616,3 +616,4 @@ SELECT * from udjra;
 SELECT * from yaanr;
 SELECT * from alsms;
 SELECT * from tnibg;
+SELECT * from bipfp;
