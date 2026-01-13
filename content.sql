@@ -971,4 +971,4 @@ SELECT * from ptipe;
 SELECT * from qwuxq;
 SELECT * from ygdxp;
 SELECT * from enpuk;
-SELECT * from rayyw;
+SELECT * from cjmyu;
