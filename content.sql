@@ -617,3 +617,4 @@ SELECT * from yaanr;
 SELECT * from alsms;
 SELECT * from tnibg;
 SELECT * from ambue;
+SELECT * from scdkp;
