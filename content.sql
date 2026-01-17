@@ -734,3 +734,4 @@ SELECT * from seiwb;
 SELECT * from jfjpf;
 SELECT * from rcsld;
 SELECT * from dorbu;
+SELECT * from kfoje;
