@@ -850,3 +850,4 @@ SELECT * from tbvvr;
 SELECT * from odvuh;
 SELECT * from trftm;
 SELECT * from rlxna;
+SELECT * from iobkh;
