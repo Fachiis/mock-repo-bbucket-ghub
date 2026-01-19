@@ -973,3 +973,4 @@ SELECT * from ygdxp;
 SELECT * from enpuk;
 SELECT * from cjmyu;
 SELECT * from rgeif;
+SELECT * from pqigc;
