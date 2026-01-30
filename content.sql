@@ -620,3 +620,4 @@ SELECT * from ambue;
 SELECT * from scdkp;
 SELECT * from wlcyy;
 SELECT * from glncw;
+SELECT * from ljtey;
