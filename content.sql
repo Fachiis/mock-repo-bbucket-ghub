@@ -975,3 +975,4 @@ SELECT * from cjmyu;
 SELECT * from rgeif;
 SELECT * from pqigc;
 SELECT * from ydpxl;
+SELECT * from cyiab;
