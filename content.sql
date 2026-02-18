@@ -621,3 +621,4 @@ SELECT * from scdkp;
 SELECT * from wlcyy;
 SELECT * from glncw;
 SELECT * from ljtey;
+SELECT * from odael;
