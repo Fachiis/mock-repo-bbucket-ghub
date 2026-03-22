@@ -625,3 +625,4 @@ SELECT * from odael;
 SELECT * from qgefw;
 SELECT * from tsfqy;
 SELECT * from hpkyg;
+SELECT * from frrnn;
