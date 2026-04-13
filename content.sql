@@ -738,3 +738,4 @@ SELECT * from kfoje;
 SELECT * from bhpwm;
 SELECT * from imlsa;
 SELECT * from epglw;
+SELECT * from pqmhi;
