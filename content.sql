@@ -977,3 +977,4 @@ SELECT * from pqigc;
 SELECT * from ydpxl;
 SELECT * from cyiab;
 SELECT * from jscxm;
+SELECT * from qutua;
