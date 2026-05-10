@@ -740,4 +740,4 @@ SELECT * from imlsa;
 SELECT * from epglw;
 SELECT * from pqmhi;
 SELECT * from wkdyp;
-SELECT * from knafv;
+SELECT * from jsukw;
