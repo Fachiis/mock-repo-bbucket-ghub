@@ -979,3 +979,4 @@ SELECT * from cyiab;
 SELECT * from jscxm;
 SELECT * from qutua;
 SELECT * from lkpno;
+SELECT * from fdnua;
