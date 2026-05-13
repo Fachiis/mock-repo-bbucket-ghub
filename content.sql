@@ -741,3 +741,4 @@ SELECT * from epglw;
 SELECT * from pqmhi;
 SELECT * from wkdyp;
 SELECT * from jsukw;
+SELECT * from uoroy;
