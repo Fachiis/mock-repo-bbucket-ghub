@@ -857,3 +857,4 @@ SELECT * from cleeh;
 SELECT * from gnvcd;
 SELECT * from alwcb;
 SELECT * from fcsqa;
+SELECT * from dnwse;
