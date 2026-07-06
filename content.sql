@@ -859,3 +859,4 @@ SELECT * from alwcb;
 SELECT * from fcsqa;
 SELECT * from dnwse;
 SELECT * from mryja;
+SELECT * from jeckx;
