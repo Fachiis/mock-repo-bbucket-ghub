@@ -982,3 +982,4 @@ SELECT * from lkpno;
 SELECT * from fdnua;
 SELECT * from icein;
 SELECT * from pvoyw;
+SELECT * from dxjlu;
