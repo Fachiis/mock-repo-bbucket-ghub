@@ -981,3 +981,4 @@ SELECT * from qutua;
 SELECT * from lkpno;
 SELECT * from fdnua;
 SELECT * from icein;
+SELECT * from pvoyw;
