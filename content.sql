@@ -985,4 +985,3 @@ SELECT * from pvoyw;
 SELECT * from dxjlu;
 SELECT * from csiio;
 SELECT * from imthj;
-SELECT * from hvsqh;
