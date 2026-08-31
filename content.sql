@@ -988,3 +988,5 @@ SELECT * from imthj;
 SELECT * from prpev;
 SELECT * from niccv;
 SELECT * from rsxyf;
+SELECT * from fwctq;
+SELECT * from kilfx;
